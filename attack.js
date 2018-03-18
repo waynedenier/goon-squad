@@ -61,9 +61,9 @@ var chooseTarget = function(attacker, combatants){
     return target;
 }
 
-var attack = function(attacker, target){
+var attack = function(attacker, target, attackIndex){
     //roll to hit
-    var attackHits = (attacker.attackModifier + roll(20)) >= target.AC;
+    var attackHits = (attacker.attacks[attackIndex].attackModifier + roll(20)) >= target.AC;
 
     if(!attackHits){
         outputProvider.miss(attacker.name + ' missed ' + target.name);
@@ -72,11 +72,11 @@ var attack = function(attacker, target){
 
     var damageRoll = 0;
 
-    for (let i = 0; i < attacker.numberOfDamageDice; i++) {
-        damageRoll = damageRoll + roll(attacker.damageDice);     
+    for (let i = 0; i < attacker.attacks[attackIndex].numberOfDamageDice; i++) {
+        damageRoll = damageRoll + roll(attacker.attacks[attackIndex].damageDice);     
     }
 
-    var totalDamage = attacker.damageModifier + damageRoll;
+    var totalDamage = attacker.attacks[attackIndex].damageModifier + damageRoll;
 
     target.history.push({ type: 'gotHit', damage: totalDamage, source: attacker.name, target: target.name });
     target.hitpoints = target.hitpoints - totalDamage;
@@ -114,10 +114,10 @@ var round = function(combatants){
         if(current.hitpoints > 0){
             var otherTeam = sortedCombatants.filter(function(item){ return item.team != current.team});
             
-            for (let j = 0; j < current.attacks; j++) {
+            for (let j = 0; j < current.attacks.length; j++) {
                 var target = chooseTarget(current, otherTeam);
                 if(target){
-                    attack(current, target);
+                    attack(current, target, j);
                     if(target.hitpoints <= 0){
                         current.kills++;
                         current.history.push({ type: 'kill', source: current.name, target: target.name });
@@ -174,8 +174,8 @@ var battle = function(){
         combatants.push(hero);  
     }
 
-    for (let i = 0; i < 2; i++) {
-        var hero = helpers.getGnoll(roll(20));
+    for (let i = 0; i < 1; i++) {
+        var hero = helpers.getDragon(roll(20));
         hero.team = 1;
         hero.name = hero.name.yellow;
         combatants.push(hero);  

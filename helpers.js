@@ -17,11 +17,14 @@ helpers.getHero = function(initiative){
     var peep = {
         id: helpers.getId(),
         name: '[' + spaceMutiny.getName() + ']',
-        attacks: 1,
-        attackModifier: 4,
-        damageModifier: 2,
-        damageDice: 6,
-        numberOfDamageDice: 1,
+        attacks: [
+            {
+                attackModifier: 4,
+                damageModifier: 2,
+                damageDice: 6,
+                numberOfDamageDice: 1,
+            }
+        ],
         AC: 15,
         hitpoints: 10,
         initiativeRoll: initiative ? initiative : 0,
@@ -37,11 +40,14 @@ helpers.getGobo = function(initiative) {
     var gobo = {
         id: helpers.getId(),
         name:'[' + goblinNames.getName()+ ']',
-        attacks: 1,
-        attackModifier: 2,
-        damageModifier: 0,
-        damageDice: 4,
-        numberOfDamageDice: 1,
+        attacks: [
+            {
+                attackModifier: 2,
+                damageModifier: 0,
+                damageDice: 4,
+                numberOfDamageDice: 1,
+            }
+        ],
         AC: 10,
         hitpoints: 4,
         initiativeRoll: initiative ? initiative : 0,
@@ -57,11 +63,20 @@ helpers.getGnoll = function(initiative) {
     var gnoll = {
         id: helpers.getId(),
         name:'[' + goblinNames.getName()+ ']',
-        attacks: 2,
-        attackModifier: 4,
-        damageModifier: 2,
-        damageDice: 6,
-        numberOfDamageDice: 1,
+        attacks: [
+            {
+                attackModifier: 4,
+                damageModifier: 2,
+                damageDice: 6,
+                numberOfDamageDice: 1,
+            },
+            {
+                attackModifier: 4,
+                damageModifier: 2,
+                damageDice: 6,
+                numberOfDamageDice: 1,
+            }
+        ],
         AC: 14,
         hitpoints: 22,
         initiativeRoll: initiative ? initiative : 0,
@@ -77,11 +92,14 @@ helpers.getMinotaurSkeleton = function(initiative) {
     var skele = {
         id: helpers.getId(),
         name: '[Jack Er\'Face]'.yellow,
-        attacks: 1,
-        attackModifier: 6,
-        damageModifier: 4,
-        damageDice: 12,
-        numberOfDamageDice: 2,
+        attacks: [
+            {
+                attackModifier: 6,
+                damageModifier: 4,
+                damageDice: 12,
+                numberOfDamageDice: 2,
+            }
+        ],
         AC: 12,
         hitpoints: 67,
         initiativeRoll: initiative ? initiative : 0,
@@ -96,14 +114,29 @@ helpers.getMinotaurSkeleton = function(initiative) {
 helpers.getDragon = function(initiative) {
     var dragon = {
         id: helpers.getId(),
-        name: dragonName.getName().green,
-        attacks: 1,
-        attackModifier: 6,
-        damageModifier: 4,
-        damageDice: 12,
-        numberOfDamageDice: 2,
-        AC: 12,
-        hitpoints: 67,
+        name: dragonNames.getName().green,
+        attacks: [
+            {
+                attackModifier: 14,
+                damageModifier: 8,
+                damageDice: 10,
+                numberOfDamageDice: 2,
+            },
+            {
+                attackModifier: 14,
+                damageModifier: 8,
+                damageDice: 10,
+                numberOfDamageDice: 2,
+            },
+            {
+                attackModifier: 14,
+                damageModifier: 8,
+                damageDice: 10,
+                numberOfDamageDice: 2,
+            }
+        ],
+        AC: 19,
+        hitpoints: 256,
         initiativeRoll: initiative ? initiative : 0,
         kills: 0,
         targetId: -1,
