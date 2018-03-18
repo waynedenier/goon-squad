@@ -1,0 +1,44 @@
+-- 1 Hero and 4 Goons, free-for-all --
+
+C:\SourceCode\doodle>node attack.js
+----- Round 1. FIGHT! -----
+[Punch VonLargefight] attacks [Boom Blaststone]
+[Boom Blaststone] takes (1) damage.
+[Stern VonSlabdrive] attacks [Stern McLaunchmissle]
+[Stern VonSlabdrive] missed!
+[Stern McLaunchmissle] attacks [Stern VonSlabdrive]
+[Stern VonSlabdrive] takes (2) damage.
+[Boom Blaststone] attacks [Peep Knight]
+[Peep Knight] takes (2) damage.
+[Peep Knight] attacks [Boom Blaststone]
+[Peep Knight] missed!
+----- Round 1. OVER: Punch VonLargefight HP(4) , Stern VonSlabdrive HP(2) , Stern McLaunchmissle HP(4) , Boom Blaststone HP(3) , Peep Knight HP(8)  -----
+----- Round 2. FIGHT! -----
+[Punch VonLargefight] attacks [Boom Blaststone]
+[Boom Blaststone] takes (3) damage.
+Boom Blaststone was defeated!
+[Stern VonSlabdrive] attacks [Punch VonLargefight]
+[Stern VonSlabdrive] missed!
+[Stern McLaunchmissle] attacks [Stern VonSlabdrive]
+[Stern VonSlabdrive] takes (2) damage.
+Stern VonSlabdrive was defeated!
+[Peep Knight] attacks [Stern McLaunchmissle]
+[Stern McLaunchmissle] takes (3) damage.
+----- Round 2. OVER: Punch VonLargefight HP(4) , Stern VonSlabdrive HP(0) , Stern McLaunchmissle HP(1) , Boom Blaststone HP(0) , Peep Knight HP(8)  -----
+----- Round 3. FIGHT! -----
+[Punch VonLargefight] attacks [Stern McLaunchmissle]
+[Punch VonLargefight] missed!
+[Stern McLaunchmissle] attacks [Punch VonLargefight]
+[Stern McLaunchmissle] missed!
+[Peep Knight] attacks [Punch VonLargefight]
+[Punch VonLargefight] takes (4) damage.
+Punch VonLargefight was defeated!
+----- Round 3. OVER: Punch VonLargefight HP(0) , Stern VonSlabdrive HP(0) , Stern McLaunchmissle HP(1) , Boom Blaststone HP(0) , Peep Knight HP(8)  -----
+----- Round 4. FIGHT! -----
+[Stern McLaunchmissle] attacks [Peep Knight]
+[Stern McLaunchmissle] missed!
+[Peep Knight] attacks [Stern McLaunchmissle]
+[Stern McLaunchmissle] takes (7) damage.
+Stern McLaunchmissle was defeated!
+----- Round 4. OVER: Punch VonLargefight HP(0) , Stern VonSlabdrive HP(0) , Stern McLaunchmissle HP(-6) , Boom Blaststone HP(0) , Peep Knight HP(8)  -----
+----- Final results: Punch VonLargefight HP(0) , Stern VonSlabdrive HP(0) , Stern McLaunchmissle HP(-6) , Boom Blaststone HP(0) , Peep Knight HP(8)  -----

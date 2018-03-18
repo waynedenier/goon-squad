@@ -1,0 +1,37 @@
+-- 5 Goons, Hammer kills himself, Boom takes two turns in a round and kills himself, wtf lol --
+-- Bug fixed. Improper reference to attacker name on hit --
+
+C:\SourceCode\doodle>node attack.js
+----- Round 1. FIGHT! -----
+[Boom Blastslam] missed [Hammer Blastdrive]
+[Fridge Explodedrill] missed [Boom Largeslam]
+[Hammer Blastdrive] hits [Hammer Blastdrive] for (3) damage.
+[Brick Launchmeat] missed [Boom Blastslam]
+[Fridge Explodedrill] hits [Fridge Explodedrill] for (3) damage.
+----- Round 1. OVER: Boom Blastslam HP(4) , Fridge Explodedrill HP(1) , Boom Largeslam HP(4) , Brick Launchmeat HP(4) , Hammer Blastdrive HP(1)  -----
+----- Round 2. FIGHT! -----
+[Boom Largeslam] hits [Boom Largeslam] for (3) damage.
+[Boom Largeslam] hits [Boom Largeslam] for (2) damage.
+*Boom Largeslam was defeated!*
+[Brick Launchmeat] missed [Fridge Explodedrill]
+[Fridge Explodedrill] hits [Fridge Explodedrill] for (2) damage.
+*Fridge Explodedrill was defeated!*
+----- Round 2. OVER: Boom Blastslam HP(4) , Fridge Explodedrill HP(-1) , Boom Largeslam HP(-1) , Brick Launchmeat HP(4) , Hammer Blastdrive HP(1)  -----
+----- Round 3. FIGHT! -----
+[Boom Blastslam] missed [Brick Launchmeat]
+[Brick Launchmeat] missed [Hammer Blastdrive]
+[Hammer Blastdrive] missed [Brick Launchmeat]
+----- Round 3. OVER: Boom Blastslam HP(4) , Fridge Explodedrill HP(-1) , Boom Largeslam HP(-1) , Brick Launchmeat HP(4) , Hammer Blastdrive HP(1)  -----
+----- Round 4. FIGHT! -----
+[Boom Blastslam] missed [Hammer Blastdrive]
+[Boom Blastslam] hits [Boom Blastslam] for (4) damage.
+*Boom Blastslam was defeated!*
+[Brick Launchmeat] hits [Brick Launchmeat] for (3) damage.
+----- Round 4. OVER: Boom Blastslam HP(0) , Fridge Explodedrill HP(-1) , Boom Largeslam HP(-1) , Brick Launchmeat HP(1) , Hammer Blastdrive HP(1)  -----
+----- Round 5. FIGHT! -----
+[Hammer Blastdrive] hits [Hammer Blastdrive] for (1) damage.
+*Hammer Blastdrive was defeated!*
+----- Round 5. OVER: Boom Blastslam HP(0) , Fridge Explodedrill HP(-1) , Boom Largeslam HP(-1) , Brick Launchmeat HP(1) , Hammer Blastdrive HP(0)  -----
+----- Final results: Boom Blastslam (HP:0, Kills: 0), Fridge Explodedrill (HP:-1, Kills: 1), Boom Largeslam (HP:-1, Kills: 0), Brick Launchmeat (HP:1, Kills: 2), Hammer Blastdrive (HP:0, Kills: 1) -----
+-> Brick Launchmeat WINS! <-
+-> Brick Launchmeat had the most kills: 2 <-

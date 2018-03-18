@@ -1,0 +1,75 @@
+-- 10 Goons, free-for-all --
+
+C:\SourceCode\doodle>node attack.js
+----- Round 1. FIGHT! -----
+[Brick Vastbone] attacks [Pike Explodechest]
+[Pike Explodechest] takes (1) damage.
+[Stern Hugechest] attacks [Pike Explodechest]
+[Stern Hugechest] missed!
+[Bulk Blastslam] attacks [Fridge Launchchest]
+[Fridge Launchchest] takes (1) damage.
+[Fridge Launchchest] attacks [Stern Mandrive]
+[Fridge Launchchest] missed!
+[Pike Explodechest] attacks [Stern Mandrive]
+[Pike Explodechest] missed!
+[Chunk Explodejolt] attacks [Stern Blaststone]
+[Chunk Explodejolt] missed!
+[Stern Blaststone] attacks [Chunk Explodejolt]
+[Chunk Explodejolt] takes (4) damage.
+Chunk Explodejolt was defeated!
+[Boom Hugebone] attacks [Stern Mandrive]
+[Stern Mandrive] takes (4) damage.
+Stern Mandrive was defeated!
+[Stern VonDongfight] attacks [Stern Hugechest]
+[Stern Hugechest] takes (2) damage.
+----- Round 1. OVER: Brick Vastbone HP(4) , Stern Hugechest HP(2) , Bulk Blastslam HP(4) , Fridge Launchchest HP(3) , Pike Explodechest HP(3) , Chunk Explodejolt HP(0) , Stern Blaststone HP(4) , Boom Hugebone HP(4) , Stern Mandrive HP(0) , Stern VonDongfight HP(4)  -----
+----- Round 2. FIGHT! -----
+[Brick Vastbone] attacks [Stern VonDongfight]
+[Stern VonDongfight] takes (3) damage.
+[Stern Hugechest] attacks [Boom Hugebone]
+[Boom Hugebone] takes (1) damage.
+[Bulk Blastslam] attacks [Fridge Launchchest]
+[Bulk Blastslam] missed!
+[Fridge Launchchest] attacks [Stern Hugechest]
+[Stern Hugechest] takes (2) damage.
+Stern Hugechest was defeated!
+[Pike Explodechest] attacks [Boom Hugebone]
+[Boom Hugebone] takes (3) damage.
+Boom Hugebone was defeated!
+[Stern Blaststone] attacks [Fridge Launchchest]
+[Fridge Launchchest] takes (2) damage.
+[Stern VonDongfight] attacks [Brick Vastbone]
+[Brick Vastbone] takes (3) damage.
+----- Round 2. OVER: Brick Vastbone HP(1) , Stern Hugechest HP(0) , Bulk Blastslam HP(4) , Fridge Launchchest HP(1) , Pike Explodechest HP(3) , Chunk Explodejolt HP(0) , Stern Blaststone HP(4) , Boom Hugebone HP(0) , Stern Mandrive HP(0) , Stern VonDongfight HP(1)  -----
+----- Round 3. FIGHT! -----
+[Brick Vastbone] attacks [Stern VonDongfight]
+[Brick Vastbone] missed!
+[Bulk Blastslam] attacks [Stern Blaststone]
+[Bulk Blastslam] missed!
+[Fridge Launchchest] attacks [Stern VonDongfight]
+[Stern VonDongfight] takes (1) damage.
+Stern VonDongfight was defeated!
+[Pike Explodechest] attacks [Bulk Blastslam]
+[Bulk Blastslam] takes (1) damage.
+[Stern Blaststone] attacks [Brick Vastbone]
+[Brick Vastbone] takes (3) damage.
+Brick Vastbone was defeated!
+----- Round 3. OVER: Brick Vastbone HP(-2) , Stern Hugechest HP(0) , Bulk Blastslam HP(3) , Fridge Launchchest HP(1) , Pike Explodechest HP(3) , Chunk Explodejolt HP(0) , Stern Blaststone HP(4) , Boom Hugebone HP(0) , Stern Mandrive HP(0) , Stern VonDongfight HP(0)  -----
+----- Round 4. FIGHT! -----
+[Bulk Blastslam] attacks [Pike Explodechest]
+[Pike Explodechest] takes (3) damage.
+Pike Explodechest was defeated!
+[Fridge Launchchest] attacks [Stern Blaststone]
+[Stern Blaststone] takes (3) damage.
+[Stern Blaststone] attacks [Fridge Launchchest]
+[Fridge Launchchest] takes (2) damage.
+Fridge Launchchest was defeated!
+----- Round 4. OVER: Brick Vastbone HP(-2) , Stern Hugechest HP(0) , Bulk Blastslam HP(3) , Fridge Launchchest HP(-1) , Pike Explodechest HP(0) , Chunk Explodejolt HP(0) , Stern Blaststone HP(1) , Boom Hugebone HP(0) , Stern Mandrive HP(0) , Stern VonDongfight HP(0)  -----
+----- Round 5. FIGHT! -----
+[Bulk Blastslam] attacks [Stern Blaststone]
+[Bulk Blastslam] missed!
+[Stern Blaststone] attacks [Bulk Blastslam]
+[Bulk Blastslam] takes (3) damage.
+Bulk Blastslam was defeated!
+----- Round 5. OVER: Brick Vastbone HP(-2) , Stern Hugechest HP(0) , Bulk Blastslam HP(0) , Fridge Launchchest HP(-1) , Pike Explodechest HP(0) , Chunk Explodejolt HP(0) , Stern Blaststone HP(1) , Boom Hugebone HP(0) , Stern Mandrive HP(0) , Stern VonDongfight HP(0)  -----
+----- Final results: Brick Vastbone (HP:-2, Kills: 0), Stern Hugechest (HP:0, Kills: 0), Bulk Blastslam (HP:0, Kills: 1), Fridge Launchchest (HP:-1, Kills: 2), Pike Explodechest (HP:0, Kills: 1), Chunk Explodejolt (HP:0, Kills: 0), Stern Blaststone (HP:1, Kills: 4), Boom Hugebone (HP:0, Kills: 1), Stern Mandrive (HP:0, Kills: 0), Stern VonDongfight (HP:0, Kills: 0) -----

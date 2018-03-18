@@ -1,0 +1,46 @@
+-- 1 Hero and 4 Goons, free-for-all --
+
+C:\SourceCode\doodle>node attack.js
+----- Round 1. FIGHT! -----
+[Peep Knight] attacks [Hammer Manslam]
+[Peep Knight] missed!
+[Punch VonDongdrive] attacks [Pike McBoomjolt]
+[Pike McBoomjolt] takes (3) damage.
+[Hammer Manslam] attacks [Chunk McHugejolt]
+[Chunk McHugejolt] takes (2) damage.
+[Chunk McHugejolt] attacks [Peep Knight]
+[Peep Knight] takes (1) damage.
+[Pike McBoomjolt] attacks [Hammer Manslam]
+[Hammer Manslam] takes (2) damage.
+----- Round 1. OVER: Peep Knight HP(9) , Punch VonDongdrive HP(4) , Hammer Manslam HP(2) , Chunk McHugejolt HP(2) , Pike McBoomjolt HP(1)  -----
+----- Round 2. FIGHT! -----
+[Peep Knight] attacks [Chunk McHugejolt]
+[Chunk McHugejolt] takes (4) damage.
+Chunk McHugejolt was defeated!
+[Punch VonDongdrive] attacks [Hammer Manslam]
+[Hammer Manslam] takes (1) damage.
+[Hammer Manslam] attacks [Punch VonDongdrive]
+[Punch VonDongdrive] takes (2) damage.
+[Pike McBoomjolt] attacks [Punch VonDongdrive]
+[Pike McBoomjolt] missed!
+----- Round 2. OVER: Peep Knight HP(9) , Punch VonDongdrive HP(2) , Hammer Manslam HP(1) , Chunk McHugejolt HP(-2) , Pike McBoomjolt HP(1)  -----
+----- Round 3. FIGHT! -----
+[Peep Knight] attacks [Hammer Manslam]
+[Hammer Manslam] takes (8) damage.
+Hammer Manslam was defeated!
+[Punch VonDongdrive] attacks [Pike McBoomjolt]
+[Pike McBoomjolt] takes (3) damage.
+Pike McBoomjolt was defeated!
+----- Round 3. OVER: Peep Knight HP(9) , Punch VonDongdrive HP(2) , Hammer Manslam HP(-7) , Chunk McHugejolt HP(-2) , Pike McBoomjolt HP(-2)  -----
+----- Round 4. FIGHT! -----
+[Peep Knight] attacks [Punch VonDongdrive]
+[Peep Knight] missed!
+[Punch VonDongdrive] attacks [Peep Knight]
+[Peep Knight] takes (4) damage.
+----- Round 4. OVER: Peep Knight HP(5) , Punch VonDongdrive HP(2) , Hammer Manslam HP(-7) , Chunk McHugejolt HP(-2) , Pike McBoomjolt HP(-2)  -----
+----- Round 5. FIGHT! -----
+[Peep Knight] attacks [Punch VonDongdrive]
+[Punch VonDongdrive] takes (6) damage.
+Punch VonDongdrive was defeated!
+----- Round 5. OVER: Peep Knight HP(5) , Punch VonDongdrive HP(-4) , Hammer Manslam HP(-7) , Chunk McHugejolt HP(-2) , Pike McBoomjolt HP(-2)  -----
+----- Final results: Peep Knight HP(5) , Punch VonDongdrive HP(-4) , Hammer Manslam HP(-7) , Chunk McHugejolt HP(-2) , Pike McBoomjolt HP(-2)  -----

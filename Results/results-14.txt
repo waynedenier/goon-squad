@@ -1,0 +1,80 @@
+// 1 hero v 5 gobos, unlikely hero win against odds (3:1) //
+
+C:\SourceCode\doodle>node attack.js
+
+i ----- [Round 1. FIGHT!] -----
+‼ [Flurg Burnrixx] missed [Chunk Dongjolt]
+√ [Chunk Dongjolt] hits [Teeks Pussslag] for (5) damage.
+× *Teeks Pussslag was defeated!*
+‼ [Flicks Tearriz] missed [Chunk Dongjolt]
+‼ [Dax Pusslug] missed [Chunk Dongjolt]
+√ [Skurm Stabtac] hits [Chunk Dongjolt] for (2) damage.
+
+√ ----- [Round 1. OVER] Knockouts: 1, Combatants remaining: Flurg Burnrixx Team(1) HP(4) , Chunk Dongjolt Team(0) HP(8) , Flicks Tearriz Team(1) HP(4) , Dax Pusslug Team(1) HP(4) , Skurm Stabtac Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (1), Team 1 (4) ----
+
+i ----- [Round 2. FIGHT!] -----
+‼ [Flurg Burnrixx] missed [Chunk Dongjolt]
+√ [Chunk Dongjolt] hits [Flicks Tearriz] for (3) damage.
+‼ [Flicks Tearriz] missed [Chunk Dongjolt]
+√ [Dax Pusslug] hits [Chunk Dongjolt] for (1) damage.
+‼ [Skurm Stabtac] missed [Chunk Dongjolt]
+
+√ ----- [Round 2. OVER] Knockouts: 1, Combatants remaining: Flurg Burnrixx Team(1) HP(4) , Chunk Dongjolt Team(0) HP(7) , Flicks Tearriz Team(1) HP(1) , Dax Pusslug Team(1) HP(4) , Skurm Stabtac Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (1), Team 1 (4) ----
+
+i ----- [Round 3. FIGHT!] -----
+‼ [Flurg Burnrixx] missed [Chunk Dongjolt]
+√ [Chunk Dongjolt] hits [Flicks Tearriz] for (3) damage.
+× *Flicks Tearriz was defeated!*
+√ [Dax Pusslug] hits [Chunk Dongjolt] for (2) damage.
+√ [Skurm Stabtac] hits [Chunk Dongjolt] for (1) damage.
+
+√ ----- [Round 3. OVER] Knockouts: 2, Combatants remaining: Flurg Burnrixx Team(1) HP(4) , Chunk Dongjolt Team(0) HP(4) , Dax Pusslug Team(1) HP(4) , Skurm Stabtac Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (1), Team 1 (3) ----
+
+i ----- [Round 4. FIGHT!] -----
+‼ [Flurg Burnrixx] missed [Chunk Dongjolt]
+√ [Chunk Dongjolt] hits [Dax Pusslug] for (8) damage.
+× *Dax Pusslug was defeated!*
+‼ [Skurm Stabtac] missed [Chunk Dongjolt]
+
+√ ----- [Round 4. OVER] Knockouts: 3, Combatants remaining: Flurg Burnrixx Team(1) HP(4) , Chunk Dongjolt Team(0) HP(4) , Skurm Stabtac Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (1), Team 1 (2) ----
+
+i ----- [Round 5. FIGHT!] -----
+‼ [Flurg Burnrixx] missed [Chunk Dongjolt]
+√ [Chunk Dongjolt] hits [Skurm Stabtac] for (7) damage.
+× *Skurm Stabtac was defeated!*
+
+√ ----- [Round 5. OVER] Knockouts: 4, Combatants remaining: Flurg Burnrixx Team(1) HP(4) , Chunk Dongjolt Team(0) HP(4)  -----
+√ ---- Team Strength: Team 0 (1), Team 1 (1) ----
+
+i ----- [Round 6. FIGHT!] -----
+‼ [Flurg Burnrixx] missed [Chunk Dongjolt]
+√ [Chunk Dongjolt] hits [Flurg Burnrixx] for (7) damage.
+× *Flurg Burnrixx was defeated!*
+
+√ ----- [Round 6. OVER] Knockouts: 5, Combatants remaining: Chunk Dongjolt Team(0) HP(4)  -----
+√ ---- Team Strength: Team 0 (1), Team 1 (0) ----
+
+√ ----- Final results: Flurg Burnrixx (HP:-3, Kills: 0), Chunk Dongjolt (HP:4, Kills: 5), Flicks Tearriz (HP:-2, Kills: 0), Dax Pusslug (HP:-4, Kills: 0), Teeks Pussslag (HP:-1, Kills: 0), Skurm Stabtac (HP:-3, Kills: 0) -----
+√ -> Team 0 WINS! <-
+
+√ -> Chunk Dongjolt (Team 0) had the most kills: 5 <-
+√ -- The story of Chunk Dongjolt --
+√ - Hit Teeks Pussslag for 5 damage. -
+√ - Defeated Teeks Pussslag -
+√ - Got hit by Skurm Stabtac for 2 damage. -
+√ - Hit Flicks Tearriz for 3 damage. -
+√ - Got hit by Dax Pusslug for 1 damage. -
+√ - Hit Flicks Tearriz for 3 damage. -
+√ - Defeated Flicks Tearriz -
+√ - Got hit by Dax Pusslug for 2 damage. -
+√ - Got hit by Skurm Stabtac for 1 damage. -
+√ - Hit Dax Pusslug for 8 damage. -
+√ - Defeated Dax Pusslug -
+√ - Hit Skurm Stabtac for 7 damage. -
+√ - Defeated Skurm Stabtac -
+√ - Hit Flurg Burnrixx for 7 damage. -
+√ - Defeated Flurg Burnrixx -

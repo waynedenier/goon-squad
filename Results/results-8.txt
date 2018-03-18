@@ -1,0 +1,610 @@
+C:\SourceCode\doodle>node attack.js
+----- Round 1. FIGHT! -----
+[Hammer Boomstone] hits [Hammer VonExplodestone] for (8) damage.
+[Pike McLaunchmissle] missed [Fridge Launchblast]
+[Hammer VonExplodestone] hits [Boom Launchjolt] for (6) damage.
+[Stern Hugedrive] missed [Chunk Largedrill]
+[Boom Hugemissle] missed [Hammer VonExplodestone]
+[Chunk Largedrill] missed [Brick McHugeblast]
+[Fridge Launchblast] hits [Hammer Boomchest] for (7) damage.
+[Stern VonExplodechest] hits [Punch Dongdrive] for (5) damage.
+[Chunk Blastblast] missed [Boom Hugemissle]
+[Pike Blastblast] hits [Stern VonExplodechest] for (7) damage.
+[Fridge Launchslam] hits [Punch Launchchest] for (3) damage.
+[Brick Slabfight] missed [Pike McLaunchmissle]
+[Brick McBoommeat] hits [Brick Explodedrill] for (7) damage.
+[Chunk Vastdrive] missed [Pike Blastblast]
+[Fridge Blaststone] missed [Stern Hugedrive]
+[Stern Hugemeat] missed [Boom Blastmissle]
+[Pike Manchest] missed [Brick McDongdrive]
+[Bulk Launchbone] hits [Fridge Manmissle] for (7) damage.
+[Brick Explodedrill] missed [Fridge McBoomjolt]
+[Brick Hugedrive] missed [Boom Boomstone]
+[Boom Launchblast] hits [Bulk Manchest] for (5) damage.
+[Fridge Blastdrill] missed [Hammer Explodebone]
+[Punch McLaunchblast] missed [Stern Hugemeat]
+[Pike Slabdrill] hits [Punch Explodebone] for (7) damage.
+[Stern Boombone] hits [Stern McBlastchest] for (6) damage.
+[Hammer Dongfight] missed [Chunk Boomchest]
+[Punch Launchbone] hits [Punch Boomdrive] for (4) damage.
+[Chunk Blastdrill] hits [Chunk Largedrill] for (4) damage.
+[Pike VonHugeslam] missed [Chunk Blastdrill]
+[Fridge Manmissle] missed [Punch Explodebone]
+[Boom Hugechest] missed [Boom McLargemissle]
+[Brick VonVastslam] missed [Punch Dongstone]
+[Bulk Boomslam] missed [Stern Hugemeat]
+[Pike Hugefight] hits [Fridge McBoomjolt] for (5) damage.
+[Punch Slabdrive] missed [Boom Hugechest]
+[Fridge McBoomjolt] hits [Bulk Manchest] for (4) damage.
+[Bulk McBoomdrive] hits [Brick McDongdrive] for (4) damage.
+[Hammer Boomchest] missed [Boom VonExplodeslam]
+[Bulk Manchest] missed [Boom Launchchest]
+[Punch Dongblast] hits [Hammer Boomchest] for (4) damage.
+*Hammer Boomchest was defeated!*
+[Stern Slabslam] hits [Chunk Boomchest] for (7) damage.
+[Punch Dongdrive] missed [Hammer VonExplodestone]
+[Fridge McDongblast] missed [Stern Slabfight]
+[Bulk McBoommeat] missed [Bulk Manchest]
+[Stern Explodejolt] missed [Fridge Manmissle]
+[Chunk Slabdrill] hits [Pike McExplodeslam] for (4) damage.
+[Boom VonExplodeslam] missed [Stern Launchfight]
+[Hammer Blastbone] hits [Brick Slabmissle] for (7) damage.
+[Brick VonManjolt] missed [Bulk Boomslam]
+[Brick McHugeblast] missed [Chunk McExplodefight]
+[Boom McLargemissle] hits [Brick VonVastfight] for (5) damage.
+[Chunk VonBoomdrill] hits [Punch Explodebone] for (3) damage.
+*Punch Explodebone was defeated!*
+[Brick McHugedrill] hits [Pike Vaststone] for (8) damage.
+[Boom McHugeblast] missed [Pike Mandrive]
+[Stern McBoomdrive] hits [Pike Manchest] for (5) damage.
+[Brick McDongdrive] missed [Fridge VonLaunchdrill]
+[Brick Slabmissle] missed [Brick Slabfight]
+[Boom Boomstone] missed [Hammer Explodebone]
+[Boom VonBlastdrive] missed [Stern VonExplodechest]
+[Boom Launchjolt] hits [Hammer Dongfight] for (6) damage.
+[Boom VonManmeat] missed [Chunk Boomchest]
+[Pike Vaststone] missed [Fridge Launchslam]
+[Fridge VonExplodedrive] hits [Chunk Launchblast] for (4) damage.
+[Stern McDongchest] hits [Fridge McHugedrive] for (4) damage.
+[Punch Boomdrive] missed [Boom VonManmeat]
+[Fridge McLaunchmissle] missed [Chunk Slabdrill]
+[Fridge McHugedrive] hits [Stern Explodedrive] for (5) damage.
+[Bulk McLaunchmeat] hits [Hammer Explodebone] for (5) damage.
+[Fridge Blaststone] hits [Bulk Launchbone] for (4) damage.
+[Boom Hugestone] hits [Boom VonExplodeslam] for (3) damage.
+[Punch Dongdrive] hits [Boom Launchchest] for (4) damage.
+[Chunk Slabmeat] hits [Pike Hugefight] for (6) damage.
+[Chunk Launchblast] missed [Punch Dongdrive]
+[Punch Dongstone] missed [Pike McLaunchmissle]
+[Pike Manmissle] hits [Stern Hugemeat] for (5) damage.
+[Stern Explodedrive] missed [Chunk McManblast]
+[Stern Slabfight] hits [Punch McLaunchblast] for (5) damage.
+[Stern McBlastchest] missed [Hammer Dongfight]
+[Chunk Boomchest] missed [Stern McBoomdrive]
+[Hammer Largebone] missed [Stern VonExplodechest]
+[Hammer Hugedrill] missed [Stern Hugedrive]
+[Stern Launchfight] missed [Pike Blastblast]
+[Brick McBoomdrive] missed [Pike Blastblast]
+[Boom Blastmissle] missed [Chunk Blastblast]
+[Hammer Largedrive] hits [Chunk Blastdrill] for (8) damage.
+[Boom McLaunchbone] hits [Stern VonExplodechest] for (4) damage.
+*Stern VonExplodechest was defeated!*
+[Pike McExplodeslam] hits [Brick McBoomdrive] for (6) damage.
+[Punch VonVastjolt] hits [Chunk Slabmeat] for (4) damage.
+[Fridge VonLaunchdrill] missed [Fridge McHugedrive]
+[Chunk Hugejolt] hits [Chunk McManblast] for (7) damage.
+[Brick VonVastfight] missed [Fridge Blaststone]
+[Punch Launchchest] missed [Bulk McBoomdrive]
+[Boom Launchchest] missed [Boom VonBlastdrive]
+[Chunk McManblast] hits [Pike Slabdrill] for (6) damage.
+[Hammer Dongfight] hits [Chunk Blastblast] for (7) damage.
+[Boom VonManbone] hits [Hammer Hugedrill] for (4) damage.
+[Chunk McExplodefight] missed [Stern Slabfight]
+[Hammer Explodebone] hits [Brick Hugedrive] for (4) damage.
+[Pike Mandrive] missed [Bulk McBoommeat]
+----- Round 1. OVER: Hammer Boomstone HP(10) , Pike McLaunchmissle HP(10) , Hammer VonExplodestone HP(2) , Stern Hugedrive HP(10) , Boom Hugemissle HP(10) , Chunk Largedrill HP(6) , Fridge Launchblast HP(10) , Stern VonExplodechest HP(-1) , Chunk Blastblast HP(3) , Pike Blastblast HP(10) , Fridge Launchslam HP(10) , Brick Slabfight HP(10) , Brick McBoommeat HP(10) , Chunk Vastdrive HP(10) , Fridge Blaststone HP(10) , Stern Hugemeat HP(5) , Pike Manchest HP(5) , Bulk Launchbone HP(6) , Brick Explodedrill HP(3) , Brick Hugedrive HP(6) , Boom Launchblast HP(10) , Fridge Blastdrill HP(10) , Punch McLaunchblast HP(5) , Pike Slabdrill HP(4) , Stern Boombone HP(10) , Hammer Dongfight HP(10) , Punch Launchbone HP(10) , Chunk Blastdrill HP(2) , Pike VonHugeslam HP(10) , Fridge Manmissle HP(3) , Boom Hugechest HP(10) , Brick VonVastslam HP(10) , Bulk Boomslam HP(10) , Pike Hugefight HP(4) , Punch Slabdrive HP(10) , Fridge McBoomjolt HP(5) , Bulk McBoomdrive HP(10) , Hammer Boomchest HP(-1) , Bulk Manchest HP(1) , Punch Dongblast HP(10) , Stern Slabslam HP(10) , Punch Dongdrive HP(5) , Fridge McDongblast HP(10) , Bulk McBoommeat HP(10) , Stern Explodejolt HP(10) , Chunk Slabdrill HP(10) , Boom VonExplodeslam HP(7) , Hammer Blastbone HP(10) , Brick VonManjolt HP(10) , Brick McHugeblast HP(10) , Boom McLargemissle HP(10) , Chunk VonBoomdrill HP(10) , Brick McHugedrill HP(10) , Boom McHugeblast HP(10) , Stern McBoomdrive HP(10) , Brick McDongdrive HP(6) , Brick Slabmissle HP(3) , Boom Boomstone HP(10) , Boom VonBlastdrive HP(10) , Boom Launchjolt HP(4) , Boom VonManmeat HP(10) , Punch Explodebone HP(0) , Pike Vaststone HP(2) , Fridge VonExplodedrive HP(10) , Stern McDongchest HP(10) , Punch Boomdrive HP(6) , Fridge McLaunchmissle HP(10) , Fridge McHugedrive HP(6) , Bulk McLaunchmeat HP(10) , Fridge Blaststone HP(10) , Boom Hugestone HP(10) , Punch Dongdrive HP(10) , Chunk Slabmeat HP(6) , Chunk Launchblast HP(6) , Punch Dongstone HP(10) , Pike Manmissle HP(10) , Stern Explodedrive HP(5) , Stern Slabfight HP(10) , Stern McBlastchest HP(4) , Chunk Boomchest HP(3) , Hammer Largebone HP(10) , Hammer Hugedrill HP(6) , Stern Launchfight HP(10) , Brick McBoomdrive HP(4) , Boom Blastmissle HP(10) , Hammer Largedrive HP(10) , Boom McLaunchbone HP(10) , Pike McExplodeslam HP(6) , Punch VonVastjolt HP(10) , Fridge VonLaunchdrill HP(10) , Chunk Hugejolt HP(10) , Brick VonVastfight HP(5) , Punch Launchchest HP(7) , Boom Launchchest HP(6) , Chunk McManblast HP(3) , Hammer Dongfight HP(4) , Boom VonManbone HP(10) , Chunk McExplodefight HP(10) , Hammer Explodebone HP(5) , Pike Mandrive HP(10)  -----
+----- Round 2. FIGHT! -----
+[Hammer Boomstone] hits [Hammer VonExplodestone] for (7) damage.
+*Hammer VonExplodestone was defeated!*
+[Pike McLaunchmissle] missed [Fridge Launchblast]
+[Stern Hugedrive] hits [Chunk Largedrill] for (4) damage.
+[Boom Hugemissle] hits [Chunk McExplodefight] for (5) damage.
+[Fridge Launchblast] missed [Brick McBoomdrive]
+[Chunk Blastblast] hits [Boom Hugemissle] for (6) damage.
+[Pike Blastblast] missed [Stern Explodedrive]
+[Fridge Launchslam] hits [Punch Launchchest] for (8) damage.
+*Punch Launchchest was defeated!*
+[Brick Slabfight] missed [Pike McLaunchmissle]
+[Chunk Largedrill] hits [Brick McHugeblast] for (7) damage.
+[Fridge Blaststone] hits [Stern Hugedrive] for (6) damage.
+[Chunk Vastdrive] missed [Pike Blastblast]
+[Brick McBoommeat] missed [Brick Explodedrill]
+[Bulk Launchbone] missed [Fridge Manmissle]
+[Brick Explodedrill] missed [Fridge McBoomjolt]
+[Brick Hugedrive] hits [Boom Boomstone] for (3) damage.
+[Stern Hugemeat] missed [Boom Blastmissle]
+[Fridge Blastdrill] missed [Hammer Explodebone]
+[Punch McLaunchblast] hits [Stern Hugemeat] for (7) damage.
+*Stern Hugemeat was defeated!*
+[Pike Slabdrill] hits [Fridge Launchblast] for (4) damage.
+[Pike Manchest] hits [Brick McDongdrive] for (7) damage.
+*Brick McDongdrive was defeated!*
+[Boom Launchblast] hits [Bulk Manchest] for (5) damage.
+*Bulk Manchest was defeated!*
+[Hammer Dongfight] hits [Chunk Boomchest] for (7) damage.
+*Chunk Boomchest was defeated!*
+[Stern Boombone] hits [Stern McBlastchest] for (4) damage.
+*Stern McBlastchest was defeated!*
+[Chunk Blastdrill] missed [Chunk Largedrill]
+[Pike VonHugeslam] missed [Chunk Blastdrill]
+[Fridge Manmissle] hits [Stern Explodedrive] for (4) damage.
+[Boom Hugechest] missed [Boom McLargemissle]
+[Brick VonVastslam] missed [Punch Dongstone]
+[Punch Launchbone] missed [Punch Boomdrive]
+[Bulk Boomslam] hits [Pike VonHugeslam] for (6) damage.
+[Punch Slabdrive] missed [Boom Hugechest]
+[Bulk McBoomdrive] missed [Stern Explodejolt]
+[Pike Hugefight] hits [Fridge McBoomjolt] for (6) damage.
+*Fridge McBoomjolt was defeated!*
+[Punch Dongblast] missed [Punch Dongdrive]
+[Stern Slabslam] missed [Hammer Explodebone]
+[Fridge McDongblast] missed [Stern Slabfight]
+[Punch Dongdrive] missed [Boom Launchchest]
+[Bulk McBoommeat] hits [Stern Explodedrive] for (5) damage.
+*Stern Explodedrive was defeated!*
+[Stern Explodejolt] missed [Fridge Manmissle]
+[Chunk Slabdrill] missed [Pike McExplodeslam]
+[Boom VonExplodeslam] missed [Stern Launchfight]
+[Hammer Blastbone] hits [Brick Slabmissle] for (6) damage.
+*Brick Slabmissle was defeated!*
+[Brick VonManjolt] missed [Bulk Boomslam]
+[Brick McHugeblast] missed [Chunk McExplodefight]
+[Boom McLargemissle] hits [Brick VonVastfight] for (4) damage.
+[Chunk VonBoomdrill] missed [Punch Dongdrive]
+[Brick McHugedrill] hits [Pike Vaststone] for (5) damage.
+*Pike Vaststone was defeated!*
+[Boom McHugeblast] missed [Pike Mandrive]
+[Stern McBoomdrive] hits [Pike Manchest] for (5) damage.
+*Pike Manchest was defeated!*
+[Boom VonBlastdrive] hits [Boom Launchblast] for (7) damage.
+[Boom Launchjolt] missed [Hammer Dongfight]
+[Boom VonManmeat] missed [Boom Boomstone]
+[Boom Boomstone] hits [Hammer Explodebone] for (5) damage.
+*Hammer Explodebone was defeated!*
+[Stern McDongchest] missed [Fridge McHugedrive]
+[Fridge McLaunchmissle] hits [Chunk Slabdrill] for (7) damage.
+[Fridge VonExplodedrive] hits [Chunk Launchblast] for (7) damage.
+*Chunk Launchblast was defeated!*
+[Fridge McHugedrive] missed [Boom Hugestone]
+[Punch Boomdrive] hits [Boom VonManmeat] for (5) damage.
+[Fridge Blaststone] hits [Bulk Launchbone] for (3) damage.
+[Bulk McLaunchmeat] missed [Boom VonExplodeslam]
+[Punch Dongdrive] hits [Boom Launchchest] for (3) damage.
+[Boom Hugestone] hits [Boom VonExplodeslam] for (7) damage.
+*Boom VonExplodeslam was defeated!*
+[Chunk Slabmeat] hits [Pike Hugefight] for (4) damage.
+*Pike Hugefight was defeated!*
+[Punch Dongstone] hits [Pike McLaunchmissle] for (4) damage.
+[Pike Manmissle] hits [Hammer Dongfight] for (7) damage.
+*Hammer Dongfight was defeated!*
+[Stern Slabfight] missed [Punch McLaunchblast]
+[Hammer Largebone] hits [Boom Boomstone] for (6) damage.
+[Hammer Hugedrill] missed [Stern Hugedrive]
+[Stern Launchfight] hits [Pike Blastblast] for (7) damage.
+[Brick McBoomdrive] missed [Pike Blastblast]
+[Hammer Largedrive] hits [Chunk Blastdrill] for (8) damage.
+*Chunk Blastdrill was defeated!*
+[Boom McLaunchbone] missed [Punch Dongdrive]
+[Pike McExplodeslam] hits [Brick McBoomdrive] for (3) damage.
+[Punch VonVastjolt] missed [Chunk Slabmeat]
+[Boom Blastmissle] missed [Chunk Blastblast]
+[Fridge VonLaunchdrill] hits [Fridge McHugedrive] for (8) damage.
+*Fridge McHugedrive was defeated!*
+[Chunk Hugejolt] missed [Chunk McManblast]
+[Brick VonVastfight] missed [Fridge Blaststone]
+[Boom Launchchest] hits [Boom VonBlastdrive] for (5) damage.
+[Chunk McManblast] hits [Pike Slabdrill] for (3) damage.
+[Boom VonManbone] missed [Hammer Hugedrill]
+[Chunk McExplodefight] missed [Stern Slabfight]
+[Pike Mandrive] hits [Bulk McBoommeat] for (7) damage.
+----- Round 2. OVER: Hammer Boomstone HP(10) , Pike McLaunchmissle HP(6) , Stern Hugedrive HP(4) , Boom Hugemissle HP(4) , Fridge Launchblast HP(6) , Stern VonExplodechest HP(-1) , Chunk Blastblast HP(3) , Pike Blastblast HP(3) , Fridge Launchslam HP(10) , Brick Slabfight HP(10) , Hammer VonExplodestone HP(-5) , Chunk Largedrill HP(2) , Fridge Blaststone HP(10) , Chunk Vastdrive HP(10) , Brick McBoommeat HP(10) , Bulk Launchbone HP(3) , Brick Explodedrill HP(3) , Brick Hugedrive HP(6) , Stern Hugemeat HP(-2) , Fridge Blastdrill HP(10) , Punch McLaunchblast HP(5) , Pike Slabdrill HP(1) , Pike Manchest HP(0) , Boom Launchblast HP(3) , Hammer Dongfight HP(10) , Stern Boombone HP(10) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(4) , Fridge Manmissle HP(3) , Boom Hugechest HP(10) , Brick VonVastslam HP(10) , Punch Launchbone HP(10) , Bulk Boomslam HP(10) , Punch Slabdrive HP(10) , Bulk McBoomdrive HP(10) , Hammer Boomchest HP(-1) , Pike Hugefight HP(0) , Fridge McBoomjolt HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(10) , Stern Slabslam HP(10) , Fridge McDongblast HP(10) , Punch Dongdrive HP(5) , Bulk McBoommeat HP(3) , Stern Explodejolt HP(10) , Chunk Slabdrill HP(3) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(10) , Brick VonManjolt HP(10) , Brick McHugeblast HP(3) , Boom McLargemissle HP(10) , Chunk VonBoomdrill HP(10) , Brick McHugedrill HP(10) , Boom McHugeblast HP(10) , Stern McBoomdrive HP(10) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom VonBlastdrive HP(5) , Boom Launchjolt HP(4) , Boom VonManmeat HP(5) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(1) , Stern McDongchest HP(10) , Fridge McLaunchmissle HP(10) , Fridge VonExplodedrive HP(10) , Fridge McHugedrive HP(-2) , Punch Boomdrive HP(6) , Fridge Blaststone HP(10) , Bulk McLaunchmeat HP(10) , Punch Dongdrive HP(10) , Boom Hugestone HP(10) , Chunk Slabmeat HP(6) , Chunk Launchblast HP(-1) , Punch Dongstone HP(10) , Pike Manmissle HP(10) , Stern Explodedrive HP(-4) , Stern Slabfight HP(10) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(10) , Hammer Hugedrill HP(6) , Stern Launchfight HP(10) , Brick McBoomdrive HP(1) , Hammer Largedrive HP(10) , Boom McLaunchbone HP(10) , Pike McExplodeslam HP(6) , Punch VonVastjolt HP(10) , Boom Blastmissle HP(10) , Fridge VonLaunchdrill HP(10) , Chunk Hugejolt HP(10) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(3) , Chunk McManblast HP(3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(10) , Chunk McExplodefight HP(5) , Hammer Explodebone HP(0) , Pike Mandrive HP(10)  -----
+----- Round 3. FIGHT! -----
+[Hammer Boomstone] missed [Fridge Launchblast]
+[Pike McLaunchmissle] missed [Fridge Launchblast]
+[Boom Hugemissle] missed [Chunk McExplodefight]
+[Fridge Launchblast] missed [Brick McBoomdrive]
+[Chunk Blastblast] missed [Boom Hugemissle]
+[Pike Blastblast] hits [Hammer Boomstone] for (3) damage.
+[Fridge Launchslam] missed [Hammer Largedrive]
+[Brick Slabfight] hits [Pike McLaunchmissle] for (7) damage.
+*Pike McLaunchmissle was defeated!*
+[Chunk Largedrill] missed [Brick McHugeblast]
+[Stern Hugedrive] missed [Chunk Largedrill]
+[Brick McBoommeat] missed [Brick Explodedrill]
+[Chunk Vastdrive] hits [Pike Blastblast] for (5) damage.
+*Pike Blastblast was defeated!*
+[Fridge Blaststone] hits [Stern Hugedrive] for (3) damage.
+[Brick Hugedrive] missed [Boom Boomstone]
+[Fridge Blastdrill] missed [Pike Slabdrill]
+[Bulk Launchbone] hits [Fridge Manmissle] for (7) damage.
+*Fridge Manmissle was defeated!*
+[Pike Slabdrill] hits [Fridge Launchblast] for (6) damage.
+*Fridge Launchblast was defeated!*
+[Boom Launchblast] hits [Brick VonVastslam] for (7) damage.
+[Brick Explodedrill] hits [Punch Launchbone] for (5) damage.
+[Punch McLaunchblast] missed [Chunk McExplodefight]
+[Stern Boombone] missed [Punch Slabdrive]
+[Hammer Dongfight] missed [Brick Hugedrive]
+[Pike VonHugeslam] hits [Fridge VonExplodedrive] for (6) damage.
+[Boom Hugechest] hits [Boom McLargemissle] for (3) damage.
+[Brick VonVastslam] missed [Punch Dongstone]
+[Punch Launchbone] missed [Punch Boomdrive]
+[Bulk Boomslam] hits [Pike VonHugeslam] for (7) damage.
+*Pike VonHugeslam was defeated!*
+[Bulk McBoomdrive] missed [Stern Explodejolt]
+[Punch Slabdrive] missed [Boom Hugechest]
+[Punch Dongblast] hits [Punch Dongdrive] for (6) damage.
+*Punch Dongdrive was defeated!*
+[Stern Slabslam] hits [Fridge McDongblast] for (4) damage.
+[Fridge McDongblast] missed [Stern Slabfight]
+[Bulk McBoommeat] hits [Pike Slabdrill] for (5) damage.
+*Pike Slabdrill was defeated!*
+[Stern Explodejolt] hits [Boom Boomstone] for (5) damage.
+*Boom Boomstone was defeated!*
+[Chunk Slabdrill] hits [Pike McExplodeslam] for (3) damage.
+[Hammer Blastbone] hits [Pike Manmissle] for (8) damage.
+[Brick VonManjolt] hits [Bulk Boomslam] for (6) damage.
+[Brick McHugeblast] missed [Chunk McExplodefight]
+[Boom McLargemissle] missed [Brick VonVastfight]
+[Chunk VonBoomdrill] missed [Boom Blastmissle]
+[Brick McHugedrill] missed [Stern Launchfight]
+[Boom McHugeblast] hits [Pike Mandrive] for (4) damage.
+[Stern McBoomdrive] hits [Boom Launchchest] for (6) damage.
+*Boom Launchchest was defeated!*
+[Boom Launchjolt] hits [Punch Slabdrive] for (5) damage.
+[Boom VonManmeat] missed [Pike McExplodeslam]
+[Boom VonBlastdrive] missed [Boom Launchblast]
+[Fridge McLaunchmissle] hits [Chunk Slabdrill] for (5) damage.
+*Chunk Slabdrill was defeated!*
+[Stern McDongchest] missed [Brick McHugedrill]
+[Punch Boomdrive] missed [Boom VonManmeat]
+[Fridge VonExplodedrive] missed [Pike Manmissle]
+[Bulk McLaunchmeat] missed [Punch Slabdrive]
+[Fridge Blaststone] missed [Bulk Launchbone]
+[Boom Hugestone] hits [Pike McExplodeslam] for (7) damage.
+*Pike McExplodeslam was defeated!*
+[Punch Dongdrive] hits [Brick McHugeblast] for (5) damage.
+*Brick McHugeblast was defeated!*
+[Chunk Slabmeat] missed [Pike Manmissle]
+[Punch Dongstone] hits [Punch Launchbone] for (4) damage.
+[Pike Manmissle] hits [Stern Hugedrive] for (6) damage.
+*Stern Hugedrive was defeated!*
+[Stern Slabfight] missed [Punch McLaunchblast]
+[Hammer Largebone] hits [Punch Slabdrive] for (4) damage.
+[Hammer Hugedrill] missed [Boom VonBlastdrive]
+[Stern Launchfight] hits [Hammer Hugedrill] for (6) damage.
+*Hammer Hugedrill was defeated!*
+[Brick McBoomdrive] hits [Boom VonManbone] for (7) damage.
+[Boom McLaunchbone] hits [Punch Dongdrive] for (3) damage.
+[Punch VonVastjolt] missed [Chunk Slabmeat]
+[Boom Blastmissle] missed [Chunk Blastblast]
+[Hammer Largedrive] missed [Bulk McBoomdrive]
+[Fridge VonLaunchdrill] missed [Bulk Boomslam]
+[Chunk Hugejolt] hits [Chunk McManblast] for (6) damage.
+*Chunk McManblast was defeated!*
+[Brick VonVastfight] hits [Fridge Blaststone] for (8) damage.
+[Boom VonManbone] missed [Pike Manmissle]
+[Chunk McExplodefight] missed [Stern Slabfight]
+[Pike Mandrive] hits [Bulk McBoommeat] for (6) damage.
+*Bulk McBoommeat was defeated!*
+----- Round 3. OVER: Hammer Boomstone HP(7) , Pike McLaunchmissle HP(-1) , Boom Hugemissle HP(4) , Fridge Launchblast HP(0) , Chunk Blastblast HP(3) , Pike Blastblast HP(-2) , Fridge Launchslam HP(10) , Brick Slabfight HP(10) , Hammer VonExplodestone HP(-5) , Chunk Largedrill HP(2) , Stern Hugedrive HP(-5) , Stern VonExplodechest HP(-1) , Brick McBoommeat HP(10) , Chunk Vastdrive HP(10) , Fridge Blaststone HP(10) , Brick Hugedrive HP(6) , Stern Hugemeat HP(-2) , Fridge Blastdrill HP(10) , Bulk Launchbone HP(3) , Pike Slabdrill HP(-4) , Pike Manchest HP(0) , Boom Launchblast HP(3) , Brick Explodedrill HP(3) , Punch McLaunchblast HP(5) , Stern Boombone HP(10) , Hammer Dongfight HP(10) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Boom Hugechest HP(10) , Brick VonVastslam HP(3) , Punch Launchbone HP(1) , Chunk Blastdrill HP(-6) , Bulk Boomslam HP(4) , Bulk McBoomdrive HP(10) , Pike Hugefight HP(0) , Fridge McBoomjolt HP(-1) , Punch Slabdrive HP(1) , Hammer Boomchest HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(10) , Stern Slabslam HP(10) , Punch Dongdrive HP(-1) , Fridge McDongblast HP(6) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(10) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(10) , Brick VonManjolt HP(10) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(7) , Chunk VonBoomdrill HP(10) , Brick McHugedrill HP(10) , Boom McHugeblast HP(10) , Stern McBoomdrive HP(10) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom Launchjolt HP(4) , Boom VonManmeat HP(5) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(5) , Fridge McLaunchmissle HP(10) , Fridge McHugedrive HP(-2) , Stern McDongchest HP(10) , Punch Boomdrive HP(6) , Fridge VonExplodedrive HP(4) , Bulk McLaunchmeat HP(10) , Fridge Blaststone HP(2) , Boom Hugestone HP(10) , Punch Dongdrive HP(7) , Chunk Slabmeat HP(6) , Chunk Launchblast HP(-1) , Punch Dongstone HP(10) , Pike Manmissle HP(2) , Stern Explodedrive HP(-4) , Stern Slabfight HP(10) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(10) , Hammer Hugedrill HP(0) , Stern Launchfight HP(10) , Brick McBoomdrive HP(1) , Boom McLaunchbone HP(10) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(10) , Boom Blastmissle HP(10) , Hammer Largedrive HP(10) , Fridge VonLaunchdrill HP(10) , Chunk Hugejolt HP(10) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(3) , Chunk McExplodefight HP(5) , Hammer Explodebone HP(0) , Pike Mandrive HP(6)  -----
+----- Round 4. FIGHT! -----
+[Hammer Boomstone] hits [Punch Slabdrive] for (6) damage.
+*Punch Slabdrive was defeated!*
+[Chunk Blastblast] missed [Boom Hugemissle]
+[Fridge Launchslam] missed [Hammer Largedrive]
+[Brick Slabfight] missed [Bulk Boomslam]
+[Chunk Largedrill] hits [Chunk Vastdrive] for (4) damage.
+[Boom Hugemissle] missed [Chunk McExplodefight]
+[Fridge Blaststone] missed [Boom VonBlastdrive]
+[Chunk Vastdrive] missed [Boom VonBlastdrive]
+[Brick McBoommeat] missed [Brick Explodedrill]
+[Fridge Blastdrill] missed [Bulk Launchbone]
+[Bulk Launchbone] hits [Chunk Vastdrive] for (4) damage.
+[Brick Hugedrive] hits [Boom VonBlastdrive] for (7) damage.
+*Boom VonBlastdrive was defeated!*
+[Boom Launchblast] missed [Brick VonVastslam]
+[Brick Explodedrill] hits [Punch Launchbone] for (5) damage.
+*Punch Launchbone was defeated!*
+[Punch McLaunchblast] missed [Chunk McExplodefight]
+[Hammer Dongfight] hits [Brick Hugedrive] for (7) damage.
+*Brick Hugedrive was defeated!*
+[Stern Boombone] hits [Punch Dongstone] for (8) damage.
+[Boom Hugechest] missed [Boom McLargemissle]
+[Brick VonVastslam] missed [Punch Dongstone]
+[Bulk Boomslam] hits [Brick McBoomdrive] for (7) damage.
+*Brick McBoomdrive was defeated!*
+[Bulk McBoomdrive] hits [Stern Explodejolt] for (7) damage.
+[Punch Dongblast] hits [Brick VonVastslam] for (6) damage.
+*Brick VonVastslam was defeated!*
+[Stern Slabslam] hits [Fridge McDongblast] for (4) damage.
+[Fridge McDongblast] missed [Stern Slabfight]
+[Stern Explodejolt] hits [Stern Launchfight] for (8) damage.
+[Hammer Blastbone] missed [Pike Manmissle]
+[Brick VonManjolt] missed [Bulk Boomslam]
+[Boom McLargemissle] missed [Brick VonVastfight]
+[Chunk VonBoomdrill] hits [Boom Blastmissle] for (5) damage.
+[Brick McHugedrill] missed [Stern Launchfight]
+[Boom McHugeblast] missed [Pike Mandrive]
+[Stern McBoomdrive] hits [Fridge VonLaunchdrill] for (7) damage.
+[Boom VonManmeat] missed [Brick Explodedrill]
+[Boom Launchjolt] hits [Fridge VonLaunchdrill] for (7) damage.
+*Fridge VonLaunchdrill was defeated!*
+[Punch Boomdrive] missed [Boom VonManmeat]
+[Fridge McLaunchmissle] hits [Stern McBoomdrive] for (7) damage.
+[Fridge VonExplodedrive] hits [Pike Manmissle] for (3) damage.
+*Pike Manmissle was defeated!*
+[Stern McDongchest] hits [Brick McHugedrill] for (8) damage.
+[Fridge Blaststone] hits [Bulk Launchbone] for (7) damage.
+*Bulk Launchbone was defeated!*
+[Bulk McLaunchmeat] missed [Brick Slabfight]
+[Punch Dongdrive] missed [Stern McDongchest]
+[Boom Hugestone] hits [Fridge Blastdrill] for (6) damage.
+[Chunk Slabmeat] missed [Brick Slabfight]
+[Punch Dongstone] hits [Chunk Vastdrive] for (4) damage.
+*Chunk Vastdrive was defeated!*
+[Stern Slabfight] missed [Punch McLaunchblast]
+[Hammer Largebone] hits [Fridge Blaststone] for (6) damage.
+*Fridge Blaststone was defeated!*
+[Stern Launchfight] missed [Boom McLargemissle]
+[Punch VonVastjolt] hits [Chunk Slabmeat] for (3) damage.
+[Boom Blastmissle] hits [Chunk Blastblast] for (7) damage.
+*Chunk Blastblast was defeated!*
+[Hammer Largedrive] hits [Bulk McBoomdrive] for (4) damage.
+[Boom McLaunchbone] hits [Punch Dongdrive] for (5) damage.
+[Chunk Hugejolt] missed [Fridge VonExplodedrive]
+[Brick VonVastfight] missed [Stern Slabslam]
+[Boom VonManbone] missed [Fridge McLaunchmissle]
+[Chunk McExplodefight] missed [Stern Slabfight]
+[Pike Mandrive] missed [Boom Hugestone]
+----- Round 4. OVER: Hammer Boomstone HP(7) , Pike McLaunchmissle HP(-1) , Fridge Launchblast HP(0) , Chunk Blastblast HP(-4) , Fridge Launchslam HP(10) , Brick Slabfight HP(10) , Hammer VonExplodestone HP(-5) , Chunk Largedrill HP(2) , Stern Hugedrive HP(-5) , Stern VonExplodechest HP(-1) , Boom Hugemissle HP(4) , Pike Blastblast HP(-2) , Fridge Blaststone HP(10) , Chunk Vastdrive HP(-2) , Brick McBoommeat HP(10) , Fridge Blastdrill HP(4) , Bulk Launchbone HP(-4) , Pike Slabdrill HP(-4) , Brick Hugedrive HP(-1) , Boom Launchblast HP(3) , Brick Explodedrill HP(3) , Punch McLaunchblast HP(5) , Stern Hugemeat HP(-2) , Pike Manchest HP(0) , Hammer Dongfight HP(10) , Stern Boombone HP(10) , Fridge Manmissle HP(-4) , Boom Hugechest HP(10) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Bulk Boomslam HP(4) , Pike Hugefight HP(0) , Punch Slabdrive HP(-5) , Hammer Boomchest HP(-1) , Bulk McBoomdrive HP(6) , Fridge McBoomjolt HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(10) , Stern Slabslam HP(10) , Fridge McDongblast HP(2) , Punch Dongdrive HP(-1) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(3) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(10) , Brick VonManjolt HP(10) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(7) , Chunk VonBoomdrill HP(10) , Brick McHugedrill HP(2) , Boom McHugeblast HP(10) , Stern McBoomdrive HP(3) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom VonManmeat HP(5) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(4) , Fridge McHugedrive HP(-2) , Punch Boomdrive HP(6) , Fridge McLaunchmissle HP(10) , Fridge VonExplodedrive HP(4) , Stern McDongchest HP(10) , Fridge Blaststone HP(-4) , Bulk McLaunchmeat HP(10) , Punch Dongdrive HP(2) , Boom Hugestone HP(10) , Chunk Slabmeat HP(3) , Chunk Launchblast HP(-1) , Punch Dongstone HP(2) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(10) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(10) , Hammer Hugedrill HP(0) , Stern Launchfight HP(2) , Brick McBoomdrive HP(-6) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(10) , Boom Blastmissle HP(5) , Hammer Largedrive HP(10) , Boom McLaunchbone HP(10) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(10) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(3) , Chunk McExplodefight HP(5) , Hammer Explodebone HP(0) , Pike Mandrive HP(6)  -----
+----- Round 5. FIGHT! -----
+[Hammer Boomstone] missed [Hammer Largebone]
+[Fridge Launchslam] hits [Hammer Largedrive] for (8) damage.
+[Chunk Largedrill] missed [Chunk Hugejolt]
+[Boom Hugemissle] missed [Chunk McExplodefight]
+[Brick Slabfight] missed [Bulk Boomslam]
+[Brick McBoommeat] hits [Brick Explodedrill] for (6) damage.
+*Brick Explodedrill was defeated!*
+[Fridge Blaststone] missed [Fridge Launchslam]
+[Boom Launchblast] missed [Boom Hugestone]
+[Fridge Blastdrill] hits [Punch Dongdrive] for (7) damage.
+*Punch Dongdrive was defeated!*
+[Punch McLaunchblast] missed [Chunk McExplodefight]
+[Stern Boombone] missed [Punch Dongstone]
+[Hammer Dongfight] hits [Brick McBoommeat] for (3) damage.
+[Boom Hugechest] hits [Boom McLargemissle] for (8) damage.
+*Boom McLargemissle was defeated!*
+[Bulk Boomslam] missed [Chunk VonBoomdrill]
+[Bulk McBoomdrive] hits [Stern Explodejolt] for (5) damage.
+*Stern Explodejolt was defeated!*
+[Punch Dongblast] missed [Stern Slabslam]
+[Stern Slabslam] missed [Fridge McDongblast]
+[Fridge McDongblast] hits [Stern Slabfight] for (4) damage.
+[Hammer Blastbone] missed [Punch Boomdrive]
+[Brick VonManjolt] hits [Bulk Boomslam] for (7) damage.
+*Bulk Boomslam was defeated!*
+[Chunk VonBoomdrill] missed [Boom Blastmissle]
+[Brick McHugedrill] hits [Stern Launchfight] for (7) damage.
+*Stern Launchfight was defeated!*
+[Boom McHugeblast] hits [Pike Mandrive] for (3) damage.
+[Stern McBoomdrive] missed [Hammer Largebone]
+[Boom Launchjolt] hits [Bulk McBoomdrive] for (4) damage.
+[Boom VonManmeat] missed [Fridge Blaststone]
+[Punch Boomdrive] hits [Boom VonManmeat] for (3) damage.
+[Fridge VonExplodedrive] hits [Stern McDongchest] for (7) damage.
+[Stern McDongchest] hits [Brick McHugedrill] for (7) damage.
+*Brick McHugedrill was defeated!*
+[Fridge McLaunchmissle] missed [Stern McBoomdrive]
+[Bulk McLaunchmeat] hits [Brick Slabfight] for (3) damage.
+[Boom Hugestone] missed [Fridge Blastdrill]
+[Chunk Slabmeat] missed [Brick Slabfight]
+[Punch Dongstone] hits [Stern Boombone] for (6) damage.
+[Stern Slabfight] missed [Punch McLaunchblast]
+[Hammer Largebone] missed [Boom VonManmeat]
+[Punch VonVastjolt] missed [Chunk Slabmeat]
+[Boom Blastmissle] hits [Boom VonManbone] for (3) damage.
+*Boom VonManbone was defeated!*
+[Hammer Largedrive] hits [Bulk McBoomdrive] for (5) damage.
+*Bulk McBoomdrive was defeated!*
+[Boom McLaunchbone] missed [Fridge Blaststone]
+[Chunk Hugejolt] missed [Fridge VonExplodedrive]
+[Brick VonVastfight] missed [Stern Slabslam]
+[Chunk McExplodefight] missed [Stern Slabfight]
+[Pike Mandrive] hits [Boom Hugestone] for (7) damage.
+----- Round 5. OVER: Hammer Boomstone HP(7) , Pike McLaunchmissle HP(-1) , Chunk Blastblast HP(-4) , Fridge Launchslam HP(10) , Hammer VonExplodestone HP(-5) , Chunk Largedrill HP(2) , Stern Hugedrive HP(-5) , Stern VonExplodechest HP(-1) , Boom Hugemissle HP(4) , Pike Blastblast HP(-2) , Fridge Launchblast HP(0) , Brick Slabfight HP(7) , Brick McBoommeat HP(7) , Chunk Vastdrive HP(-2) , Fridge Blaststone HP(10) , Pike Slabdrill HP(-4) , Brick Hugedrive HP(-1) , Boom Launchblast HP(3) , Fridge Blastdrill HP(4) , Punch McLaunchblast HP(5) , Stern Hugemeat HP(-2) , Pike Manchest HP(0) , Bulk Launchbone HP(-4) , Brick Explodedrill HP(-3) , Stern Boombone HP(4) , Hammer Dongfight HP(10) , Boom Hugechest HP(10) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Bulk Boomslam HP(-3) , Punch Slabdrive HP(-5) , Bulk McBoomdrive HP(-3) , Fridge McBoomjolt HP(-1) , Pike Hugefight HP(0) , Hammer Boomchest HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(10) , Stern Slabslam HP(10) , Punch Dongdrive HP(-1) , Fridge McDongblast HP(2) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(10) , Brick VonManjolt HP(10) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(10) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(10) , Stern McBoomdrive HP(3) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(4) , Boom VonManmeat HP(2) , Punch Boomdrive HP(6) , Fridge VonExplodedrive HP(4) , Fridge McHugedrive HP(-2) , Stern McDongchest HP(3) , Fridge McLaunchmissle HP(10) , Bulk McLaunchmeat HP(10) , Fridge Blaststone HP(-4) , Boom Hugestone HP(3) , Punch Dongdrive HP(-5) , Chunk Slabmeat HP(3) , Chunk Launchblast HP(-1) , Punch Dongstone HP(2) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(6) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(10) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Punch VonVastjolt HP(10) , Boom Blastmissle HP(5) , Hammer Largedrive HP(2) , Boom McLaunchbone HP(10) , Pike McExplodeslam HP(-4) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(10) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(5) , Hammer Explodebone HP(0) , Pike Mandrive HP(3)  -----
+----- Round 6. FIGHT! -----
+[Hammer Boomstone] hits [Hammer Largebone] for (6) damage.
+[Fridge Launchslam] hits [Hammer Largedrive] for (7) damage.
+*Hammer Largedrive was defeated!*
+[Boom Hugemissle] hits [Chunk McExplodefight] for (4) damage.
+[Brick Slabfight] missed [Boom McLaunchbone]
+[Chunk Largedrill] hits [Chunk Hugejolt] for (6) damage.
+[Fridge Blaststone] hits [Fridge Launchslam] for (5) damage.
+[Brick McBoommeat] missed [Stern Boombone]
+[Boom Launchblast] hits [Boom Hugestone] for (6) damage.
+*Boom Hugestone was defeated!*
+[Fridge Blastdrill] missed [Boom McHugeblast]
+[Punch McLaunchblast] missed [Chunk McExplodefight]
+[Hammer Dongfight] missed [Brick McBoommeat]
+[Stern Boombone] hits [Punch Dongstone] for (8) damage.
+*Punch Dongstone was defeated!*
+[Boom Hugechest] missed [Punch VonVastjolt]
+[Punch Dongblast] missed [Stern Slabslam]
+[Stern Slabslam] hits [Fridge McDongblast] for (8) damage.
+*Fridge McDongblast was defeated!*
+[Hammer Blastbone] hits [Punch Boomdrive] for (5) damage.
+[Brick VonManjolt] hits [Punch McLaunchblast] for (5) damage.
+*Punch McLaunchblast was defeated!*
+[Chunk VonBoomdrill] missed [Boom Blastmissle]
+[Boom McHugeblast] hits [Pike Mandrive] for (4) damage.
+*Pike Mandrive was defeated!*
+[Stern McBoomdrive] hits [Hammer Largebone] for (6) damage.
+*Hammer Largebone was defeated!*
+[Boom Launchjolt] missed [Bulk McLaunchmeat]
+[Boom VonManmeat] hits [Fridge Blaststone] for (7) damage.
+[Fridge VonExplodedrive] missed [Stern McDongchest]
+[Stern McDongchest] hits [Fridge Blaststone] for (6) damage.
+*Fridge Blaststone was defeated!*
+[Punch Boomdrive] missed [Boom VonManmeat]
+[Fridge McLaunchmissle] missed [Stern McBoomdrive]
+[Bulk McLaunchmeat] hits [Brick Slabfight] for (6) damage.
+[Chunk Slabmeat] hits [Brick Slabfight] for (5) damage.
+*Brick Slabfight was defeated!*
+[Stern Slabfight] missed [Brick VonManjolt]
+[Boom Blastmissle] missed [Boom Launchblast]
+[Boom McLaunchbone] hits [Brick VonManjolt] for (4) damage.
+[Punch VonVastjolt] hits [Chunk Slabmeat] for (7) damage.
+*Chunk Slabmeat was defeated!*
+[Chunk Hugejolt] missed [Fridge VonExplodedrive]
+[Brick VonVastfight] hits [Stern Slabslam] for (7) damage.
+[Chunk McExplodefight] hits [Stern Slabfight] for (3) damage.
+----- Round 6. OVER: Hammer Boomstone HP(7) , Pike McLaunchmissle HP(-1) , Fridge Launchslam HP(5) , Hammer VonExplodestone HP(-5) , Stern Hugedrive HP(-5) , Stern VonExplodechest HP(-1) , Boom Hugemissle HP(4) , Pike Blastblast HP(-2) , Fridge Launchblast HP(0) , Brick Slabfight HP(-4) , Chunk Blastblast HP(-4) , Chunk Largedrill HP(2) , Fridge Blaststone HP(-3) , Chunk Vastdrive HP(-2) , Brick McBoommeat HP(7) , Boom Launchblast HP(3) , Fridge Blastdrill HP(4) , Punch McLaunchblast HP(0) , Pike Slabdrill HP(-4) , Pike Manchest HP(0) , Bulk Launchbone HP(-4) , Brick Explodedrill HP(-3) , Brick Hugedrive HP(-1) , Stern Hugemeat HP(-2) , Hammer Dongfight HP(10) , Stern Boombone HP(4) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Boom Hugechest HP(10) , Bulk Boomslam HP(-3) , Bulk McBoomdrive HP(-3) , Pike Hugefight HP(0) , Hammer Boomchest HP(-1) , Punch Slabdrive HP(-5) , Fridge McBoomjolt HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(10) , Stern Slabslam HP(3) , Fridge McDongblast HP(-6) , Punch Dongdrive HP(-1) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(10) , Brick VonManjolt HP(6) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(10) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(10) , Stern McBoomdrive HP(3) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(4) , Boom VonManmeat HP(2) , Punch Explodebone HP(0) , Fridge VonExplodedrive HP(4) , Stern McDongchest HP(3) , Punch Boomdrive HP(1) , Fridge McLaunchmissle HP(10) , Fridge McHugedrive HP(-2) , Fridge Blaststone HP(-4) , Bulk McLaunchmeat HP(10) , Punch Dongdrive HP(-5) , Boom Hugestone HP(-3) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(3) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Boom Blastmissle HP(5) , Hammer Largedrive HP(-5) , Boom McLaunchbone HP(10) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(10) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(4) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(1) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 7. FIGHT! -----
+[Hammer Boomstone] hits [Stern Slabslam] for (6) damage.
+*Stern Slabslam was defeated!*
+[Boom Hugemissle] hits [Chunk McExplodefight] for (4) damage.
+*Chunk McExplodefight was defeated!*
+[Chunk Largedrill] hits [Chunk Hugejolt] for (7) damage.
+*Chunk Hugejolt was defeated!*
+[Fridge Launchslam] hits [Brick VonManjolt] for (8) damage.
+*Brick VonManjolt was defeated!*
+[Brick McBoommeat] missed [Stern Boombone]
+[Boom Launchblast] hits [Boom Blastmissle] for (4) damage.
+[Fridge Blastdrill] missed [Boom McHugeblast]
+[Stern Boombone] hits [Boom VonManmeat] for (5) damage.
+*Boom VonManmeat was defeated!*
+[Hammer Dongfight] missed [Brick McBoommeat]
+[Boom Hugechest] missed [Punch VonVastjolt]
+[Punch Dongblast] missed [Stern McBoomdrive]
+[Hammer Blastbone] hits [Punch Boomdrive] for (5) damage.
+*Punch Boomdrive was defeated!*
+[Chunk VonBoomdrill] missed [Boom Blastmissle]
+[Boom McHugeblast] hits [Fridge Blastdrill] for (6) damage.
+*Fridge Blastdrill was defeated!*
+[Stern McBoomdrive] hits [Bulk McLaunchmeat] for (7) damage.
+[Boom Launchjolt] missed [Bulk McLaunchmeat]
+[Stern McDongchest] missed [Chunk Largedrill]
+[Fridge McLaunchmissle] hits [Stern McBoomdrive] for (7) damage.
+*Stern McBoomdrive was defeated!*
+[Fridge VonExplodedrive] hits [Stern McDongchest] for (7) damage.
+*Stern McDongchest was defeated!*
+[Bulk McLaunchmeat] hits [Stern Boombone] for (5) damage.
+*Stern Boombone was defeated!*
+[Stern Slabfight] hits [Fridge VonExplodedrive] for (4) damage.
+*Fridge VonExplodedrive was defeated!*
+[Boom McLaunchbone] hits [Boom Launchblast] for (5) damage.
+*Boom Launchblast was defeated!*
+[Punch VonVastjolt] hits [Fridge Launchslam] for (8) damage.
+*Fridge Launchslam was defeated!*
+[Boom Blastmissle] missed [Fridge McLaunchmissle]
+[Brick VonVastfight] missed [Boom McHugeblast]
+----- Round 7. OVER: Hammer Boomstone HP(7) , Pike McLaunchmissle HP(-1) , Hammer VonExplodestone HP(-5) , Stern Hugedrive HP(-5) , Boom Hugemissle HP(4) , Pike Blastblast HP(-2) , Fridge Launchblast HP(0) , Brick Slabfight HP(-4) , Chunk Blastblast HP(-4) , Chunk Largedrill HP(2) , Fridge Launchslam HP(-3) , Stern VonExplodechest HP(-1) , Brick McBoommeat HP(7) , Chunk Vastdrive HP(-2) , Fridge Blaststone HP(-3) , Punch McLaunchblast HP(0) , Pike Slabdrill HP(-4) , Pike Manchest HP(0) , Boom Launchblast HP(-2) , Brick Explodedrill HP(-3) , Brick Hugedrive HP(-1) , Stern Hugemeat HP(-2) , Fridge Blastdrill HP(-2) , Bulk Launchbone HP(-4) , Stern Boombone HP(-1) , Hammer Dongfight HP(10) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Boom Hugechest HP(10) , Brick VonVastslam HP(-3) , Bulk Boomslam HP(-3) , Pike Hugefight HP(0) , Punch Slabdrive HP(-5) , Fridge McBoomjolt HP(-1) , Bulk McBoomdrive HP(-3) , Hammer Boomchest HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(10) , Stern Slabslam HP(-3) , Punch Dongdrive HP(-1) , Fridge McDongblast HP(-6) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(10) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(10) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(10) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(4) , Boom VonManmeat HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Stern McDongchest HP(-4) , Fridge McLaunchmissle HP(10) , Fridge VonExplodedrive HP(0) , Fridge McHugedrive HP(-2) , Punch Boomdrive HP(-4) , Bulk McLaunchmeat HP(3) , Fridge Blaststone HP(-4) , Boom Hugestone HP(-3) , Punch Dongdrive HP(-5) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(3) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Hammer Largedrive HP(-5) , Boom McLaunchbone HP(10) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(10) , Boom Blastmissle HP(1) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 8. FIGHT! -----
+[Hammer Boomstone] missed [Boom Launchjolt]
+[Boom Hugemissle] hits [Punch Dongblast] for (4) damage.
+[Chunk Largedrill] hits [Boom McLaunchbone] for (6) damage.
+[Brick McBoommeat] hits [Boom Launchjolt] for (5) damage.
+*Boom Launchjolt was defeated!*
+[Hammer Dongfight] hits [Brick McBoommeat] for (8) damage.
+*Brick McBoommeat was defeated!*
+[Boom Hugechest] missed [Punch VonVastjolt]
+[Punch Dongblast] missed [Bulk McLaunchmeat]
+[Hammer Blastbone] hits [Fridge McLaunchmissle] for (6) damage.
+[Chunk VonBoomdrill] missed [Boom Blastmissle]
+[Boom McHugeblast] hits [Hammer Boomstone] for (6) damage.
+[Fridge McLaunchmissle] missed [Chunk VonBoomdrill]
+[Bulk McLaunchmeat] missed [Punch VonVastjolt]
+[Stern Slabfight] missed [Hammer Blastbone]
+[Boom McLaunchbone] hits [Stern Slabfight] for (5) damage.
+*Stern Slabfight was defeated!*
+[Punch VonVastjolt] hits [Fridge McLaunchmissle] for (3) damage.
+[Boom Blastmissle] missed [Fridge McLaunchmissle]
+[Brick VonVastfight] missed [Boom McHugeblast]
+----- Round 8. OVER: Hammer Boomstone HP(1) , Pike McLaunchmissle HP(-1) , Stern Hugedrive HP(-5) , Boom Hugemissle HP(4) , Fridge Launchblast HP(0) , Brick Slabfight HP(-4) , Chunk Blastblast HP(-4) , Chunk Largedrill HP(2) , Fridge Launchslam HP(-3) , Stern VonExplodechest HP(-1) , Hammer VonExplodestone HP(-5) , Pike Blastblast HP(-2) , Fridge Blaststone HP(-3) , Chunk Vastdrive HP(-2) , Brick McBoommeat HP(-1) , Pike Manchest HP(0) , Boom Launchblast HP(-2) , Brick Explodedrill HP(-3) , Punch McLaunchblast HP(0) , Stern Hugemeat HP(-2) , Fridge Blastdrill HP(-2) , Bulk Launchbone HP(-4) , Pike Slabdrill HP(-4) , Brick Hugedrive HP(-1) , Hammer Dongfight HP(10) , Stern Boombone HP(-1) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Boom Hugechest HP(10) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Bulk Boomslam HP(-3) , Punch Slabdrive HP(-5) , Bulk McBoomdrive HP(-3) , Hammer Boomchest HP(-1) , Pike Hugefight HP(0) , Fridge McBoomjolt HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(6) , Stern Slabslam HP(-3) , Fridge McDongblast HP(-6) , Punch Dongdrive HP(-1) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(10) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(10) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(10) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(-1) , Boom VonManmeat HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Fridge McLaunchmissle HP(1) , Fridge McHugedrive HP(-2) , Stern McDongchest HP(-4) , Punch Boomdrive HP(-4) , Fridge VonExplodedrive HP(0) , Fridge Blaststone HP(-4) , Bulk McLaunchmeat HP(3) , Punch Dongdrive HP(-5) , Boom Hugestone HP(-3) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(-2) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Boom McLaunchbone HP(4) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(10) , Boom Blastmissle HP(1) , Hammer Largedrive HP(-5) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 9. FIGHT! -----
+[Hammer Boomstone] missed [Hammer Dongfight]
+[Boom Hugemissle] missed [Punch Dongblast]
+[Chunk Largedrill] hits [Boom McLaunchbone] for (4) damage.
+*Boom McLaunchbone was defeated!*
+[Hammer Dongfight] hits [Punch Dongblast] for (8) damage.
+*Punch Dongblast was defeated!*
+[Boom Hugechest] hits [Punch VonVastjolt] for (4) damage.
+[Hammer Blastbone] missed [Fridge McLaunchmissle]
+[Chunk VonBoomdrill] hits [Boom Blastmissle] for (8) damage.
+*Boom Blastmissle was defeated!*
+[Boom McHugeblast] missed [Hammer Boomstone]
+[Fridge McLaunchmissle] hits [Chunk VonBoomdrill] for (5) damage.
+[Bulk McLaunchmeat] missed [Punch VonVastjolt]
+[Punch VonVastjolt] missed [Fridge McLaunchmissle]
+[Brick VonVastfight] missed [Boom McHugeblast]
+----- Round 9. OVER: Hammer Boomstone HP(1) , Pike McLaunchmissle HP(-1) , Boom Hugemissle HP(4) , Fridge Launchblast HP(0) , Chunk Blastblast HP(-4) , Chunk Largedrill HP(2) , Fridge Launchslam HP(-3) , Stern VonExplodechest HP(-1) , Hammer VonExplodestone HP(-5) , Pike Blastblast HP(-2) , Stern Hugedrive HP(-5) , Brick Slabfight HP(-4) , Brick McBoommeat HP(-1) , Chunk Vastdrive HP(-2) , Fridge Blaststone HP(-3) , Brick Explodedrill HP(-3) , Punch McLaunchblast HP(0) , Stern Hugemeat HP(-2) , Pike Manchest HP(0) , Bulk Launchbone HP(-4) , Pike Slabdrill HP(-4) , Brick Hugedrive HP(-1) , Boom Launchblast HP(-2) , Fridge Blastdrill HP(-2) , Stern Boombone HP(-1) , Hammer Dongfight HP(10) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Boom Hugechest HP(10) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Bulk Boomslam HP(-3) , Bulk McBoomdrive HP(-3) , Pike Hugefight HP(0) , Fridge McBoomjolt HP(-1) , Punch Slabdrive HP(-5) , Hammer Boomchest HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(-2) , Stern Slabslam HP(-3) , Punch Dongdrive HP(-1) , Fridge McDongblast HP(-6) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(10) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(5) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(10) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom Launchjolt HP(-1) , Boom VonManmeat HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Fridge McHugedrive HP(-2) , Punch Boomdrive HP(-4) , Fridge McLaunchmissle HP(1) , Fridge VonExplodedrive HP(0) , Stern McDongchest HP(-4) , Bulk McLaunchmeat HP(3) , Fridge Blaststone HP(-4) , Boom Hugestone HP(-3) , Punch Dongdrive HP(-5) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(-2) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(6) , Boom Blastmissle HP(-7) , Hammer Largedrive HP(-5) , Boom McLaunchbone HP(0) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 10. FIGHT! -----
+[Hammer Boomstone] missed [Hammer Dongfight]
+[Boom Hugemissle] hits [Boom Hugechest] for (4) damage.
+[Chunk Largedrill] hits [Hammer Blastbone] for (4) damage.
+[Hammer Dongfight] missed [Boom Hugemissle]
+[Boom Hugechest] hits [Punch VonVastjolt] for (5) damage.
+[Hammer Blastbone] hits [Fridge McLaunchmissle] for (4) damage.
+*Fridge McLaunchmissle was defeated!*
+[Chunk VonBoomdrill] hits [Boom Hugemissle] for (4) damage.
+*Boom Hugemissle was defeated!*
+[Boom McHugeblast] missed [Hammer Boomstone]
+[Bulk McLaunchmeat] hits [Punch VonVastjolt] for (5) damage.
+*Punch VonVastjolt was defeated!*
+[Brick VonVastfight] hits [Boom McHugeblast] for (6) damage.
+----- Round 10. OVER: Hammer Boomstone HP(1) , Pike McLaunchmissle HP(-1) , Fridge Launchblast HP(0) , Chunk Blastblast HP(-4) , Fridge Launchslam HP(-3) , Stern VonExplodechest HP(-1) , Hammer VonExplodestone HP(-5) , Pike Blastblast HP(-2) , Stern Hugedrive HP(-5) , Brick Slabfight HP(-4) , Boom Hugemissle HP(0) , Chunk Largedrill HP(2) , Fridge Blaststone HP(-3) , Chunk Vastdrive HP(-2) , Brick McBoommeat HP(-1) , Stern Hugemeat HP(-2) , Pike Manchest HP(0) , Bulk Launchbone HP(-4) , Brick Explodedrill HP(-3) , Brick Hugedrive HP(-1) , Boom Launchblast HP(-2) , Fridge Blastdrill HP(-2) , Punch McLaunchblast HP(0) , Pike Slabdrill HP(-4) , Hammer Dongfight HP(10) , Stern Boombone HP(-1) , Fridge Manmissle HP(-4) , Boom Hugechest HP(6) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Bulk Boomslam HP(-3) , Pike Hugefight HP(0) , Punch Slabdrive HP(-5) , Hammer Boomchest HP(-1) , Bulk McBoomdrive HP(-3) , Fridge McBoomjolt HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(-2) , Stern Slabslam HP(-3) , Fridge McDongblast HP(-6) , Punch Dongdrive HP(-1) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(6) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(5) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(4) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom VonManmeat HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(-1) , Punch Boomdrive HP(-4) , Fridge VonExplodedrive HP(0) , Fridge McHugedrive HP(-2) , Stern McDongchest HP(-4) , Fridge McLaunchmissle HP(-3) , Fridge Blaststone HP(-4) , Bulk McLaunchmeat HP(3) , Punch Dongdrive HP(-5) , Boom Hugestone HP(-3) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(-2) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Punch VonVastjolt HP(-4) , Boom Blastmissle HP(-7) , Hammer Largedrive HP(-5) , Boom McLaunchbone HP(0) , Pike McExplodeslam HP(-4) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 11. FIGHT! -----
+[Hammer Boomstone] missed [Hammer Dongfight]
+[Chunk Largedrill] missed [Hammer Blastbone]
+[Hammer Dongfight] hits [Bulk McLaunchmeat] for (8) damage.
+*Bulk McLaunchmeat was defeated!*
+[Boom Hugechest] hits [Hammer Boomstone] for (3) damage.
+*Hammer Boomstone was defeated!*
+[Hammer Blastbone] hits [Chunk VonBoomdrill] for (3) damage.
+[Chunk VonBoomdrill] missed [Brick VonVastfight]
+[Boom McHugeblast] hits [Hammer Blastbone] for (6) damage.
+*Hammer Blastbone was defeated!*
+[Brick VonVastfight] hits [Boom McHugeblast] for (8) damage.
+*Boom McHugeblast was defeated!*
+----- Round 11. OVER: Hammer Boomstone HP(-2) , Pike McLaunchmissle HP(-1) , Chunk Blastblast HP(-4) , Fridge Launchslam HP(-3) , Hammer VonExplodestone HP(-5) , Pike Blastblast HP(-2) , Stern Hugedrive HP(-5) , Brick Slabfight HP(-4) , Boom Hugemissle HP(0) , Chunk Largedrill HP(2) , Fridge Launchblast HP(0) , Stern VonExplodechest HP(-1) , Brick McBoommeat HP(-1) , Chunk Vastdrive HP(-2) , Fridge Blaststone HP(-3) , Bulk Launchbone HP(-4) , Brick Explodedrill HP(-3) , Brick Hugedrive HP(-1) , Stern Hugemeat HP(-2) , Fridge Blastdrill HP(-2) , Punch McLaunchblast HP(0) , Pike Slabdrill HP(-4) , Pike Manchest HP(0) , Boom Launchblast HP(-2) , Stern Boombone HP(-1) , Hammer Dongfight HP(10) , Boom Hugechest HP(6) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Bulk Boomslam HP(-3) , Punch Slabdrive HP(-5) , Bulk McBoomdrive HP(-3) , Fridge McBoomjolt HP(-1) , Pike Hugefight HP(0) , Hammer Boomchest HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(-2) , Stern Slabslam HP(-3) , Punch Dongdrive HP(-1) , Fridge McDongblast HP(-6) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(0) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(2) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(-4) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(-1) , Boom VonManmeat HP(-3) , Fridge VonExplodedrive HP(0) , Stern McDongchest HP(-4) , Punch Boomdrive HP(-4) , Fridge McLaunchmissle HP(-3) , Fridge McHugedrive HP(-2) , Bulk McLaunchmeat HP(-5) , Fridge Blaststone HP(-4) , Boom Hugestone HP(-3) , Punch Dongdrive HP(-5) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(-2) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Boom Blastmissle HP(-7) , Hammer Largedrive HP(-5) , Boom McLaunchbone HP(0) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(-4) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 12. FIGHT! -----
+[Chunk Largedrill] hits [Chunk VonBoomdrill] for (8) damage.
+*Chunk VonBoomdrill was defeated!*
+[Hammer Dongfight] missed [Brick VonVastfight]
+[Boom Hugechest] missed [Hammer Dongfight]
+[Brick VonVastfight] missed [Hammer Dongfight]
+----- Round 12. OVER: Hammer Boomstone HP(-2) , Pike McLaunchmissle HP(-1) , Fridge Launchslam HP(-3) , Hammer VonExplodestone HP(-5) , Stern Hugedrive HP(-5) , Brick Slabfight HP(-4) , Boom Hugemissle HP(0) , Chunk Largedrill HP(2) , Fridge Launchblast HP(0) , Stern VonExplodechest HP(-1) , Chunk Blastblast HP(-4) , Pike Blastblast HP(-2) , Fridge Blaststone HP(-3) , Chunk Vastdrive HP(-2) , Brick McBoommeat HP(-1) , Brick Hugedrive HP(-1) , Stern Hugemeat HP(-2) , Fridge Blastdrill HP(-2) , Bulk Launchbone HP(-4) , Pike Slabdrill HP(-4) , Pike Manchest HP(0) , Boom Launchblast HP(-2) , Brick Explodedrill HP(-3) , Punch McLaunchblast HP(0) , Hammer Dongfight HP(10) , Stern Boombone HP(-1) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Boom Hugechest HP(6) , Bulk Boomslam HP(-3) , Bulk McBoomdrive HP(-3) , Pike Hugefight HP(0) , Hammer Boomchest HP(-1) , Punch Slabdrive HP(-5) , Fridge McBoomjolt HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(-2) , Stern Slabslam HP(-3) , Fridge McDongblast HP(-6) , Punch Dongdrive HP(-1) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(0) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(-6) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(-4) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(-1) , Boom VonManmeat HP(-3) , Punch Explodebone HP(0) , Stern McDongchest HP(-4) , Fridge McLaunchmissle HP(-3) , Fridge VonExplodedrive HP(0) , Fridge McHugedrive HP(-2) , Punch Boomdrive HP(-4) , Fridge Blaststone HP(-4) , Bulk McLaunchmeat HP(-5) , Punch Dongdrive HP(-5) , Boom Hugestone HP(-3) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(-2) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Hammer Largedrive HP(-5) , Boom McLaunchbone HP(0) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(-4) , Boom Blastmissle HP(-7) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(1) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 13. FIGHT! -----
+[Chunk Largedrill] missed [Brick VonVastfight]
+[Hammer Dongfight] hits [Brick VonVastfight] for (4) damage.
+*Brick VonVastfight was defeated!*
+[Boom Hugechest] missed [Hammer Dongfight]
+----- Round 13. OVER: Hammer Boomstone HP(-2) , Pike McLaunchmissle HP(-1) , Hammer VonExplodestone HP(-5) , Stern Hugedrive HP(-5) , Boom Hugemissle HP(0) , Chunk Largedrill HP(2) , Fridge Launchblast HP(0) , Stern VonExplodechest HP(-1) , Chunk Blastblast HP(-4) , Pike Blastblast HP(-2) , Fridge Launchslam HP(-3) , Brick Slabfight HP(-4) , Brick McBoommeat HP(-1) , Chunk Vastdrive HP(-2) , Fridge Blaststone HP(-3) , Fridge Blastdrill HP(-2) , Bulk Launchbone HP(-4) , Pike Slabdrill HP(-4) , Brick Hugedrive HP(-1) , Boom Launchblast HP(-2) , Brick Explodedrill HP(-3) , Punch McLaunchblast HP(0) , Stern Hugemeat HP(-2) , Pike Manchest HP(0) , Stern Boombone HP(-1) , Hammer Dongfight HP(10) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Boom Hugechest HP(6) , Brick VonVastslam HP(-3) , Bulk Boomslam HP(-3) , Pike Hugefight HP(0) , Punch Slabdrive HP(-5) , Fridge McBoomjolt HP(-1) , Bulk McBoomdrive HP(-3) , Hammer Boomchest HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(-2) , Stern Slabslam HP(-3) , Punch Dongdrive HP(-1) , Fridge McDongblast HP(-6) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(0) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(-6) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(-4) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(-1) , Boom VonManmeat HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Fridge McLaunchmissle HP(-3) , Fridge McHugedrive HP(-2) , Stern McDongchest HP(-4) , Punch Boomdrive HP(-4) , Fridge VonExplodedrive HP(0) , Bulk McLaunchmeat HP(-5) , Fridge Blaststone HP(-4) , Boom Hugestone HP(-3) , Punch Dongdrive HP(-5) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(-2) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Boom McLaunchbone HP(0) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(-4) , Boom Blastmissle HP(-7) , Hammer Largedrive HP(-5) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(-3) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 14. FIGHT! -----
+[Chunk Largedrill] missed [Hammer Dongfight]
+[Hammer Dongfight] hits [Chunk Largedrill] for (4) damage.
+*Chunk Largedrill was defeated!*
+[Boom Hugechest] missed [Hammer Dongfight]
+----- Round 14. OVER: Hammer Boomstone HP(-2) , Pike McLaunchmissle HP(-1) , Stern Hugedrive HP(-5) , Boom Hugemissle HP(0) , Fridge Launchblast HP(0) , Stern VonExplodechest HP(-1) , Chunk Blastblast HP(-4) , Pike Blastblast HP(-2) , Fridge Launchslam HP(-3) , Brick Slabfight HP(-4) , Hammer VonExplodestone HP(-5) , Chunk Largedrill HP(-2) , Fridge Blaststone HP(-3) , Chunk Vastdrive HP(-2) , Brick McBoommeat HP(-1) , Pike Slabdrill HP(-4) , Brick Hugedrive HP(-1) , Boom Launchblast HP(-2) , Fridge Blastdrill HP(-2) , Punch McLaunchblast HP(0) , Stern Hugemeat HP(-2) , Pike Manchest HP(0) , Bulk Launchbone HP(-4) , Brick Explodedrill HP(-3) , Hammer Dongfight HP(10) , Stern Boombone HP(-1) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Boom Hugechest HP(6) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Bulk Boomslam HP(-3) , Punch Slabdrive HP(-5) , Bulk McBoomdrive HP(-3) , Hammer Boomchest HP(-1) , Pike Hugefight HP(0) , Fridge McBoomjolt HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(-2) , Stern Slabslam HP(-3) , Fridge McDongblast HP(-6) , Punch Dongdrive HP(-1) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(0) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(-6) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(-4) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(-1) , Boom VonManmeat HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Fridge McHugedrive HP(-2) , Punch Boomdrive HP(-4) , Fridge McLaunchmissle HP(-3) , Fridge VonExplodedrive HP(0) , Stern McDongchest HP(-4) , Fridge Blaststone HP(-4) , Bulk McLaunchmeat HP(-5) , Punch Dongdrive HP(-5) , Boom Hugestone HP(-3) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(-2) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(-4) , Boom Blastmissle HP(-7) , Hammer Largedrive HP(-5) , Boom McLaunchbone HP(0) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(-3) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 15. FIGHT! -----
+[Hammer Dongfight] hits [Boom Hugechest] for (4) damage.
+[Boom Hugechest] missed [Hammer Dongfight]
+----- Round 15. OVER: Hammer Boomstone HP(-2) , Pike McLaunchmissle HP(-1) , Boom Hugemissle HP(0) , Fridge Launchblast HP(0) , Chunk Blastblast HP(-4) , Pike Blastblast HP(-2) , Fridge Launchslam HP(-3) , Brick Slabfight HP(-4) , Hammer VonExplodestone HP(-5) , Chunk Largedrill HP(-2) , Stern Hugedrive HP(-5) , Stern VonExplodechest HP(-1) , Brick McBoommeat HP(-1) , Chunk Vastdrive HP(-2) , Fridge Blaststone HP(-3) , Boom Launchblast HP(-2) , Fridge Blastdrill HP(-2) , Punch McLaunchblast HP(0) , Pike Slabdrill HP(-4) , Pike Manchest HP(0) , Bulk Launchbone HP(-4) , Brick Explodedrill HP(-3) , Brick Hugedrive HP(-1) , Stern Hugemeat HP(-2) , Stern Boombone HP(-1) , Hammer Dongfight HP(10) , Pike VonHugeslam HP(-3) , Fridge Manmissle HP(-4) , Boom Hugechest HP(2) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Bulk Boomslam HP(-3) , Bulk McBoomdrive HP(-3) , Pike Hugefight HP(0) , Fridge McBoomjolt HP(-1) , Punch Slabdrive HP(-5) , Hammer Boomchest HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(-2) , Stern Slabslam HP(-3) , Punch Dongdrive HP(-1) , Fridge McDongblast HP(-6) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(0) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(-6) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(-4) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom Launchjolt HP(-1) , Boom VonManmeat HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Punch Boomdrive HP(-4) , Fridge VonExplodedrive HP(0) , Fridge McHugedrive HP(-2) , Stern McDongchest HP(-4) , Fridge McLaunchmissle HP(-3) , Bulk McLaunchmeat HP(-5) , Fridge Blaststone HP(-4) , Boom Hugestone HP(-3) , Punch Dongdrive HP(-5) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(-2) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Punch VonVastjolt HP(-4) , Boom Blastmissle HP(-7) , Hammer Largedrive HP(-5) , Boom McLaunchbone HP(0) , Pike McExplodeslam HP(-4) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(-3) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Round 16. FIGHT! -----
+[Hammer Dongfight] hits [Boom Hugechest] for (5) damage.
+*Boom Hugechest was defeated!*
+----- Round 16. OVER: Hammer Boomstone HP(-2) , Pike McLaunchmissle HP(-1) , Fridge Launchblast HP(0) , Chunk Blastblast HP(-4) , Fridge Launchslam HP(-3) , Brick Slabfight HP(-4) , Hammer VonExplodestone HP(-5) , Chunk Largedrill HP(-2) , Stern Hugedrive HP(-5) , Stern VonExplodechest HP(-1) , Boom Hugemissle HP(0) , Pike Blastblast HP(-2) , Fridge Blaststone HP(-3) , Chunk Vastdrive HP(-2) , Brick McBoommeat HP(-1) , Punch McLaunchblast HP(0) , Pike Slabdrill HP(-4) , Pike Manchest HP(0) , Boom Launchblast HP(-2) , Brick Explodedrill HP(-3) , Brick Hugedrive HP(-1) , Stern Hugemeat HP(-2) , Fridge Blastdrill HP(-2) , Bulk Launchbone HP(-4) , Hammer Dongfight HP(10) , Stern Boombone HP(-1) , Fridge Manmissle HP(-4) , Boom Hugechest HP(-3) , Brick VonVastslam HP(-3) , Punch Launchbone HP(-4) , Chunk Blastdrill HP(-6) , Pike VonHugeslam HP(-3) , Bulk Boomslam HP(-3) , Pike Hugefight HP(0) , Punch Slabdrive HP(-5) , Hammer Boomchest HP(-1) , Bulk McBoomdrive HP(-3) , Fridge McBoomjolt HP(-1) , Bulk Manchest HP(-4) , Punch Dongblast HP(-2) , Stern Slabslam HP(-3) , Fridge McDongblast HP(-6) , Punch Dongdrive HP(-1) , Bulk McBoommeat HP(-3) , Stern Explodejolt HP(-2) , Chunk Slabdrill HP(-2) , Boom VonExplodeslam HP(0) , Hammer Blastbone HP(0) , Brick VonManjolt HP(-2) , Brick McHugeblast HP(-2) , Boom McLargemissle HP(-1) , Chunk VonBoomdrill HP(-6) , Brick McHugedrill HP(-5) , Boom McHugeblast HP(-4) , Stern McBoomdrive HP(-4) , Brick McDongdrive HP(-1) , Brick Slabmissle HP(-3) , Boom VonManmeat HP(-3) , Punch Explodebone HP(0) , Pike Vaststone HP(-3) , Boom Boomstone HP(-4) , Boom VonBlastdrive HP(-2) , Boom Launchjolt HP(-1) , Fridge VonExplodedrive HP(0) , Stern McDongchest HP(-4) , Punch Boomdrive HP(-4) , Fridge McLaunchmissle HP(-3) , Fridge McHugedrive HP(-2) , Fridge Blaststone HP(-4) , Bulk McLaunchmeat HP(-5) , Punch Dongdrive HP(-5) , Boom Hugestone HP(-3) , Chunk Slabmeat HP(-4) , Chunk Launchblast HP(-1) , Punch Dongstone HP(-6) , Pike Manmissle HP(-1) , Stern Explodedrive HP(-4) , Stern Slabfight HP(-2) , Stern McBlastchest HP(0) , Chunk Boomchest HP(-4) , Hammer Largebone HP(-2) , Hammer Hugedrill HP(0) , Stern Launchfight HP(-5) , Brick McBoomdrive HP(-6) , Boom Blastmissle HP(-7) , Hammer Largedrive HP(-5) , Boom McLaunchbone HP(0) , Pike McExplodeslam HP(-4) , Punch VonVastjolt HP(-4) , Fridge VonLaunchdrill HP(-4) , Chunk Hugejolt HP(-3) , Brick VonVastfight HP(-3) , Punch Launchchest HP(-1) , Boom Launchchest HP(-3) , Chunk McManblast HP(-3) , Hammer Dongfight HP(-3) , Boom VonManbone HP(0) , Chunk McExplodefight HP(-3) , Hammer Explodebone HP(0) , Pike Mandrive HP(-1)  -----
+----- Final results: Hammer Boomstone (HP:-2, Kills: 3), Pike McLaunchmissle (HP:-1, Kills: 0), Fridge Launchblast (HP:0, Kills: 0), Chunk Blastblast (HP:-4, Kills: 0), Fridge Launchslam (HP:-3, Kills: 3), Brick Slabfight (HP:-4, Kills: 1), Hammer VonExplodestone (HP:-5, Kills: 0), Chunk Largedrill (HP:-2, Kills: 3), Stern Hugedrive (HP:-5, Kills: 0), Stern VonExplodechest (HP:-1, Kills: 0), Boom Hugemissle (HP:0, Kills: 1), Pike Blastblast (HP:-2, Kills: 0), Fridge Blaststone (HP:-3, Kills: 0), Chunk Vastdrive (HP:-2, Kills: 1), Brick McBoommeat (HP:-1, Kills: 2), Punch McLaunchblast (HP:0, Kills: 1), Pike Slabdrill (HP:-4, Kills: 1), Pike Manchest (HP:0, Kills: 1), Boom Launchblast (HP:-2, Kills: 2), Brick Explodedrill (HP:-3, Kills: 1), Brick Hugedrive (HP:-1, Kills: 1), Stern Hugemeat (HP:-2, Kills: 0), Fridge Blastdrill (HP:-2, Kills: 1), Bulk Launchbone (HP:-4, Kills: 1), Hammer Dongfight (HP:10, Kills: 8), Stern Boombone (HP:-1, Kills: 3), Fridge Manmissle (HP:-4, Kills: 0), Boom Hugechest (HP:-3, Kills: 2), Brick VonVastslam (HP:-3, Kills: 0), Punch Launchbone (HP:-4, Kills: 0), Chunk Blastdrill (HP:-6, Kills: 0), Pike VonHugeslam (HP:-3, Kills: 0), Bulk Boomslam (HP:-3, Kills: 2), Pike Hugefight (HP:0, Kills: 1), Punch Slabdrive (HP:-5, Kills: 0), Hammer Boomchest (HP:-1, Kills: 0), Bulk McBoomdrive (HP:-3, Kills: 1), Fridge McBoomjolt (HP:-1, Kills: 0), Bulk Manchest (HP:-4, Kills: 0), Punch Dongblast (HP:-2, Kills: 3), Stern Slabslam (HP:-3, Kills: 1), Fridge McDongblast (HP:-6, Kills: 0), Punch Dongdrive (HP:-1, Kills: 0), Bulk McBoommeat (HP:-3, Kills: 2), Stern Explodejolt (HP:-2, Kills: 1), Chunk Slabdrill (HP:-2, Kills: 0), Boom VonExplodeslam (HP:0, Kills: 0), Hammer Blastbone (HP:0, Kills: 3), Brick VonManjolt (HP:-2, Kills: 2), Brick McHugeblast (HP:-2, Kills: 0), Boom McLargemissle (HP:-1, Kills: 0), Chunk VonBoomdrill (HP:-6, Kills: 3), Brick McHugedrill (HP:-5, Kills: 2), Boom McHugeblast (HP:-4, Kills: 3), Stern McBoomdrive (HP:-4, Kills: 3), Brick McDongdrive (HP:-1, Kills: 0), Brick Slabmissle (HP:-3, Kills: 0), Boom VonManmeat (HP:-3, Kills: 0), Punch Explodebone (HP:0, Kills: 0), Pike Vaststone (HP:-3, Kills: 0), Boom Boomstone (HP:-4, Kills: 1), Boom VonBlastdrive (HP:-2, Kills: 0), Boom Launchjolt (HP:-1, Kills: 1), Fridge VonExplodedrive (HP:0, Kills: 3), Stern McDongchest (HP:-4, Kills: 2), Punch Boomdrive (HP:-4, Kills: 0), Fridge McLaunchmissle (HP:-3, Kills: 2), Fridge McHugedrive (HP:-2, Kills: 0), Fridge Blaststone (HP:-4, Kills: 1), Bulk McLaunchmeat (HP:-5, Kills: 2), Punch Dongdrive (HP:-5, Kills: 1), Boom Hugestone (HP:-3, Kills: 2), Chunk Slabmeat (HP:-4, Kills: 2), Chunk Launchblast (HP:-1, Kills: 0), Punch Dongstone (HP:-6, Kills: 1), Pike Manmissle (HP:-1, Kills: 2), Stern Explodedrive (HP:-4, Kills: 0), Stern Slabfight (HP:-2, Kills: 1), Stern McBlastchest (HP:0, Kills: 0), Chunk Boomchest (HP:-4, Kills: 0), Hammer Largebone (HP:-2, Kills: 1), Hammer Hugedrill (HP:0, Kills: 0), Stern Launchfight (HP:-5, Kills: 1), Brick McBoomdrive (HP:-6, Kills: 0), Boom Blastmissle (HP:-7, Kills: 2), Hammer Largedrive (HP:-5, Kills: 2), Boom McLaunchbone (HP:0, Kills: 3), Pike McExplodeslam (HP:-4, Kills: 0), Punch VonVastjolt (HP:-4, Kills: 2), Fridge VonLaunchdrill (HP:-4, Kills: 1), Chunk Hugejolt (HP:-3, Kills: 1), Brick VonVastfight (HP:-3, Kills: 1), Punch Launchchest (HP:-1, Kills: 0), Boom Launchchest (HP:-3, Kills: 0), Chunk McManblast (HP:-3, Kills: 0), Hammer Dongfight (HP:-3, Kills: 0), Boom VonManbone (HP:0, Kills: 0), Chunk McExplodefight (HP:-3, Kills: 0), Hammer Explodebone (HP:0, Kills: 0), Pike Mandrive (HP:-1, Kills: 1) -----
+-> Hammer Dongfight WINS! <-
+-> Hammer Dongfight had the most kills: 8 <-

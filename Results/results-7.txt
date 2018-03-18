@@ -1,0 +1,54 @@
+C:\SourceCode\doodle>node attack.js
+----- Round 1. FIGHT! -----
+[Bulk Largebone] hits [Punch Launchdrill] for (2) damage.
+[Hammer Dongbone] missed [Pike Explodebone]
+[Punch McBoomdrive] missed [Punch Dongblast]
+[Punch Hugemissle] missed [Punch Launchdrill]
+[Stern Slabdrill] hits [Brick Hugejolt] for (2) damage.
+[Pike Explodebone] hits [Punch Launchdrill] for (3) damage.
+*Punch Launchdrill was defeated!*
+[Punch Dongblast] hits [Punch Hugemissle] for (2) damage.
+[Punch Manbone] hits [Punch Dongblast] for (3) damage.
+[Brick Hugejolt] hits [Punch Dongblast] for (4) damage.
+*Punch Dongblast was defeated!*
+----- Round 1. OVER: Bulk Largebone HP(4) , Hammer Dongbone HP(4) , Punch McBoomdrive HP(4) , Punch Hugemissle HP(2) , Stern Slabdrill HP(4) , Pike Explodebone HP(4) , Punch Dongblast HP(-3) , Punch Manbone HP(4) , Punch Launchdrill HP(-1) , Brick Hugejolt HP(2)  -----
+----- Round 2. FIGHT! -----
+[Bulk Largebone] hits [Stern Slabdrill] for (3) damage.
+[Hammer Dongbone] hits [Brick Hugejolt] for (2) damage.
+*Brick Hugejolt was defeated!*
+[Punch McBoomdrive] missed [Stern Slabdrill]
+[Punch Hugemissle] hits [Stern Slabdrill] for (3) damage.
+*Stern Slabdrill was defeated!*
+[Pike Explodebone] hits [Bulk Largebone] for (3) damage.
+[Punch Manbone] missed [Punch Hugemissle]
+----- Round 2. OVER: Bulk Largebone HP(1) , Hammer Dongbone HP(4) , Punch McBoomdrive HP(4) , Punch Hugemissle HP(2) , Stern Slabdrill HP(-2) , Pike Explodebone HP(4) , Punch Dongblast HP(-3) , Punch Manbone HP(4) , Punch Launchdrill HP(-1) , Brick Hugejolt HP(0)  -----
+----- Round 3. FIGHT! -----
+[Bulk Largebone] missed [Punch Hugemissle]
+[Hammer Dongbone] hits [Punch Manbone] for (4) damage.
+*Punch Manbone was defeated!*
+[Punch McBoomdrive] missed [Hammer Dongbone]
+[Punch Hugemissle] missed [Punch McBoomdrive]
+[Pike Explodebone] missed [Hammer Dongbone]
+----- Round 3. OVER: Bulk Largebone HP(1) , Hammer Dongbone HP(4) , Punch McBoomdrive HP(4) , Punch Hugemissle HP(2) , Stern Slabdrill HP(-2) , Pike Explodebone HP(4) , Punch Dongblast HP(-3) , Punch Manbone HP(0) , Punch Launchdrill HP(-1) , Brick Hugejolt HP(0)  -----
+----- Round 4. FIGHT! -----
+[Bulk Largebone] missed [Punch Hugemissle]
+[Hammer Dongbone] hits [Punch McBoomdrive] for (3) damage.
+[Punch McBoomdrive] hits [Bulk Largebone] for (3) damage.
+*Bulk Largebone was defeated!*
+[Punch Hugemissle] hits [Punch McBoomdrive] for (1) damage.
+*Punch McBoomdrive was defeated!*
+[Pike Explodebone] hits [Punch Hugemissle] for (3) damage.
+*Punch Hugemissle was defeated!*
+----- Round 4. OVER: Bulk Largebone HP(-2) , Hammer Dongbone HP(4) , Punch McBoomdrive HP(0) , Punch Hugemissle HP(-1) , Stern Slabdrill HP(-2) , Pike Explodebone HP(4) , Punch Dongblast HP(-3) , Punch Manbone HP(0) , Punch Launchdrill HP(-1) , Brick Hugejolt HP(0)  -----
+----- Round 5. FIGHT! -----
+[Hammer Dongbone] hits [Pike Explodebone] for (3) damage.
+[Pike Explodebone] hits [Hammer Dongbone] for (1) damage.
+----- Round 5. OVER: Bulk Largebone HP(-2) , Hammer Dongbone HP(3) , Punch McBoomdrive HP(0) , Punch Hugemissle HP(-1) , Stern Slabdrill HP(-2) , Pike Explodebone HP(1) , Punch Dongblast HP(-3) , Punch Manbone HP(0) , Punch Launchdrill HP(-1) , Brick Hugejolt HP(0)  -----
+----- Round 6. FIGHT! -----
+[Hammer Dongbone] missed [Pike Explodebone]
+[Pike Explodebone] hits [Hammer Dongbone] for (4) damage.
+*Hammer Dongbone was defeated!*
+----- Round 6. OVER: Bulk Largebone HP(-2) , Hammer Dongbone HP(-1) , Punch McBoomdrive HP(0) , Punch Hugemissle HP(-1) , Stern Slabdrill HP(-2) , Pike Explodebone HP(1) , Punch Dongblast HP(-3) , Punch Manbone HP(0) , Punch Launchdrill HP(-1) , Brick Hugejolt HP(0)  -----
+----- Final results: Bulk Largebone (HP:-2, Kills: 0), Hammer Dongbone (HP:-1, Kills: 2), Punch McBoomdrive (HP:0, Kills: 1), Punch Hugemissle (HP:-1, Kills: 2), Stern Slabdrill (HP:-2, Kills: 0), Pike Explodebone (HP:1, Kills: 3), Punch Dongblast (HP:-3, Kills: 0), Punch Manbone (HP:0, Kills: 0), Punch Launchdrill (HP:-1, Kills: 0), Brick Hugejolt (HP:0, Kills: 1) -----
+-> Pike Explodebone WINS! <-
+-> Pike Explodebone had the most kills: 3 <-

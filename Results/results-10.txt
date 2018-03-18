@@ -1,0 +1,46 @@
+// 2 v 2, teams, team strength //
+
+C:\SourceCode\doodle>node attack.js
+i
+i ----- [Round 1. FIGHT!] -----
+‼ [Boom McBoomstone] missed [Brick Boomdrill]
+√ [Stern Dongjolt] hits [Brick Boomdrill] for (3) damage.
+√ [Brick Boomdrill] hits [Stern Dongjolt] for (7) damage.
+‼ [Stern Dongstone] missed [Stern Dongjolt]
+√ ----- [Round 1. OVER] Knockouts: 0, Combatants remaining: Boom McBoomstone Team(1) HP(10) , Stern Dongjolt Team(1) HP(3) , Brick Boomdrill Team(0) HP(7) , Stern Dongstone Team(0) HP(10)  -----
+√ ---- Team Strength: Team 0 (2), Team 1 (2) ----
+i
+i ----- [Round 2. FIGHT!] -----
+√ [Boom McBoomstone] hits [Brick Boomdrill] for (4) damage.
+√ [Stern Dongjolt] hits [Brick Boomdrill] for (7) damage.
+× *Brick Boomdrill was defeated!*
+‼ [Stern Dongstone] missed [Stern Dongjolt]
+√ ----- [Round 2. OVER] Knockouts: 1, Combatants remaining: Boom McBoomstone Team(1) HP(10) , Stern Dongjolt Team(1) HP(3) , Stern Dongstone Team(0) HP(10)  -----
+√ ---- Team Strength: Team 0 (1), Team 1 (2) ----
+i
+i ----- [Round 3. FIGHT!] -----
+√ [Boom McBoomstone] hits [Stern Dongstone] for (6) damage.
+√ [Stern Dongjolt] hits [Stern Dongstone] for (7) damage.
+× *Stern Dongstone was defeated!*
+√ ----- [Round 3. OVER] Knockouts: 2, Combatants remaining: Boom McBoomstone Team(1) HP(10) , Stern Dongjolt Team(1) HP(3)  -----
+√ ---- Team Strength: , Team 1 (2) ----
+√
+√ ----- Final results: Boom McBoomstone (HP:10, Kills: 0), Stern Dongjolt (HP:3, Kills: 2), Brick Boomdrill (HP:-4, Kills: 0), Stern Dongstone (HP:-3, Kills: 0) -----
+√ -> Stern Dongjolt and Team 1 WINS! <-
+√
+√ -- The story of Stern Dongjolt (Team 1) --
+√ - Hit Brick Boomdrill for 3 damage. -
+√ - Got hit by Brick Boomdrill for 7 damage. -
+√ - Hit Brick Boomdrill for 7 damage. -
+√ - Defeated Brick Boomdrill -
+√ - Hit Stern Dongstone for 7 damage. -
+√ - Defeated Stern Dongstone -
+√
+√ -> Stern Dongjolt (Team 1) had the most kills: 2 <-
+√ -- The story of Stern Dongjolt --
+√ - Hit Brick Boomdrill for 3 damage. -
+√ - Got hit by Brick Boomdrill for 7 damage. -
+√ - Hit Brick Boomdrill for 7 damage. -
+√ - Defeated Brick Boomdrill -
+√ - Hit Stern Dongstone for 7 damage. -
+√ - Defeated Stern Dongstone -

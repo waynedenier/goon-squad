@@ -1,0 +1,90 @@
+// 4 heros v 2 Gnolls, 2 attack monsters //
+
+C:\SourceCode\doodle>node attack.js
+
+i ----- [Round 1. FIGHT!] -----
+√ [Rip Pussriz] hits [Boom Blastmissle] for (8) damage.
+‼ [Rip Pussriz] missed [Boom Blastmissle]
+‼ [Hammer VonLargedrill] missed [Rip Pussriz]
+√ [Boom Blastmissle] hits [Trux Pusscruz] for (3) damage.
+‼ [Chunk VonDongdrill] missed [Trux Pusscruz]
+√ [Brick Hugedrive] hits [Trux Pusscruz] for (5) damage.
+√ [Trux Pusscruz] hits [Hammer VonLargedrill] for (8) damage.
+‼ [Trux Pusscruz] missed [Hammer VonLargedrill]
+
+√ ----- [Round 1. OVER] Knockouts: 0 -----
+√ ---- Team Strength: Team 0 (4), Team 1 (2) ----
+
+i ----- [Round 2. FIGHT!] -----
+√ [Rip Pussriz] hits [Boom Blastmissle] for (7) damage.
+× [Boom Blastmissle] defeated!
+‼ [Rip Pussriz] missed [Chunk VonDongdrill]
+‼ [Hammer VonLargedrill] missed [Rip Pussriz]
+√ [Chunk VonDongdrill] hits [Trux Pusscruz] for (3) damage.
+√ [Brick Hugedrive] hits [Trux Pusscruz] for (5) damage.
+‼ [Trux Pusscruz] missed [Hammer VonLargedrill]
+√ [Trux Pusscruz] hits [Hammer VonLargedrill] for (7) damage.
+× [Hammer VonLargedrill] defeated!
+
+√ ----- [Round 2. OVER] Knockouts: 2 -----
+√ ---- Team Strength: Team 0 (2), Team 1 (2) ----
+
+i ----- [Round 3. FIGHT!] -----
+√ [Rip Pussriz] hits [Chunk VonDongdrill] for (8) damage.
+‼ [Rip Pussriz] missed [Chunk VonDongdrill]
+√ [Chunk VonDongdrill] hits [Trux Pusscruz] for (8) damage.
+× [Trux Pusscruz] defeated!
+‼ [Brick Hugedrive] missed [Rip Pussriz]
+
+√ ----- [Round 3. OVER] Knockouts: 3 -----
+√ ---- Team Strength: Team 0 (2), Team 1 (1) ----
+
+i ----- [Round 4. FIGHT!] -----
+‼ [Rip Pussriz] missed [Chunk VonDongdrill]
+√ [Rip Pussriz] hits [Chunk VonDongdrill] for (3) damage.
+× [Chunk VonDongdrill] defeated!
+√ [Brick Hugedrive] hits [Rip Pussriz] for (6) damage.
+
+√ ----- [Round 4. OVER] Knockouts: 4 -----
+√ ---- Team Strength: Team 0 (1), Team 1 (1) ----
+
+i ----- [Round 5. FIGHT!] -----
+√ [Rip Pussriz] hits [Brick Hugedrive] for (4) damage.
+√ [Rip Pussriz] hits [Brick Hugedrive] for (4) damage.
+√ [Brick Hugedrive] hits [Rip Pussriz] for (3) damage.
+
+√ ----- [Round 5. OVER] Knockouts: 4 -----
+√ ---- Team Strength: Team 0 (1), Team 1 (1) ----
+
+i ----- [Round 6. FIGHT!] -----
+√ [Rip Pussriz] hits [Brick Hugedrive] for (4) damage.
+× [Brick Hugedrive] defeated!
+i [Rip Pussriz] has no one to fight.
+
+√ ----- [Round 6. OVER] Knockouts: 5 -----
+√ ---- Team Strength: Team 0 (0), Team 1 (1) ----
+
+√ ----- Final results:
+[Rip Pussriz] (HP:13, Kills: 3),
+[Hammer VonLargedrill] (HP:-5, Kills: 0),
+[Boom Blastmissle] (HP:-5, Kills: 0),
+[Chunk VonDongdrill] (HP:-1, Kills: 1),
+[Brick Hugedrive] (HP:-2, Kills: 0),
+[Trux Pusscruz] (HP:-2, Kills: 1) -----
+
+√ -> Team 1 WINS! <-
+
+√ -> [Rip Pussriz] (Team 1) had the most kills: 3 <-
+√ -- The story of [Rip Pussriz] --
+√ - Hit [Boom Blastmissle] for 8 damage. -
+√ - Hit [Boom Blastmissle] for 7 damage. -
+√ - Defeated [Boom Blastmissle] -
+√ - Hit [Chunk VonDongdrill] for 8 damage. -
+√ - Hit [Chunk VonDongdrill] for 3 damage. -
+√ - Defeated [Chunk VonDongdrill] -
+√ - Got hit by [Brick Hugedrive] for 6 damage. -
+√ - Hit [Brick Hugedrive] for 4 damage. -
+√ - Hit [Brick Hugedrive] for 4 damage. -
+√ - Got hit by [Brick Hugedrive] for 3 damage. -
+√ - Hit [Brick Hugedrive] for 4 damage. -
+√ - Defeated [Brick Hugedrive] -

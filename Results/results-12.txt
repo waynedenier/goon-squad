@@ -1,0 +1,271 @@
+// 10 Heros v 30 Gobos, asymetrical teams //
+
+C:\SourceCode\doodle>node attack.js
+i
+i ----- [Round 1. FIGHT!] -----
+√ [Fridge Launchslam] hits [Punch McExplodeslam] for (2) damage.
+√ [Brick Hugebone] hits [Punch Hugefight] for (5) damage.
+× *Punch Hugefight was defeated!*
+‼ [Stern Launchjolt] missed [Fridge Vastdrive]
+‼ [Punch McExplodeblast] missed [Pike VonLargechest]
+‼ [Stern VonVastfight] missed [Fridge Slabfight]
+√ [Bulk Blastfight] hits [Punch McExplodeslam] for (1) damage.
+‼ [Punch Dongdrill] missed [Punch McExplodeslam]
+‼ [Brick Dongchest] missed [Bulk Launchstone]
+√ [Bulk Launchstone] hits [Boom VonHugefight] for (3) damage.
+‼ [Boom Explodeslam] missed [Bulk Launchstone]
+‼ [Brick VonLargedrive] missed [Bulk Launchstone]
+‼ [Bulk McSlabmeat] missed [Punch McExplodeblast]
+√ [Pike Mandrill] hits [Boom Vastbone] for (3) damage.
+‼ [Boom Vastbone] missed [Bulk McSlabmeat]
+√ [Fridge Vastdrive] hits [Boom Explodeslam] for (5) damage.
+× *Boom Explodeslam was defeated!*
+√ [Brick McBoomblast] hits [Hammer Slabbone] for (3) damage.
+‼ [Boom Blastfight] missed [Fridge Slabfight]
+√ [Pike VonLargechest] hits [Fridge VonBlastblast] for (5) damage.
+× *Fridge VonBlastblast was defeated!*
+‼ [Chunk Slabbone] missed [Bulk Launchstone]
+‼ [Chunk Launchmissle] missed [Pike Mandrill]
+√ [Brick Hugemissle] hits [Pike Mandrill] for (1) damage.
+√ [Fridge Slabfight] hits [Chunk McExplodebone] for (4) damage.
+× *Chunk McExplodebone was defeated!*
+√ [Boom VonHugefight] hits [Fridge Slabfight] for (4) damage.
+√ [Stern Mandrive] hits [Fridge Slabfight] for (3) damage.
+‼ [Boom Largestone] missed [Brick McBoomblast]
+‼ [Pike Hugestone] missed [Bulk McSlabmeat]
+‼ [Hammer Blaststone] missed [Brick Hugebone]
+√ [Hammer Dongmissle] hits [Fridge Slabfight] for (2) damage.
+‼ [Pike McHugedrill] missed [Bulk Launchstone]
+‼ [Brick Launchfight] missed [Fridge Vastdrive]
+√ [Punch McLaunchslam] hits [Fridge Slabfight] for (4) damage.
+× *Fridge Slabfight was defeated!*
+‼ [Pike McDongdrill] missed [Bulk Launchstone]
+√ [Punch McExplodeslam] hits [Punch McLaunchslam] for (7) damage.
+× *Punch McLaunchslam was defeated!*
+√ [Hammer Slabbone] hits [Brick McBoomblast] for (2) damage.
+√ [Pike Explodebone] hits [Boom Vastbone] for (4) damage.
+× *Boom Vastbone was defeated!*
+√ [Fridge Slabbone] hits [Punch McExplodeslam] for (1) damage.
+‼ [Fridge McSlabdrive] missed [Punch McExplodeslam]
+√ ----- [Round 1. OVER] Knockouts: 7, Combatants remaining: Fridge Launchslam Team(1) HP(4) , Brick Hugebone Team(0) HP(10) , Stern Launchjolt Team(1) HP(4) , Punch McExplodeblast Team(1) HP(4) , Stern VonVastfight Team(1) HP(4) , Bulk Blastfight Team(1) HP(4) , Punch Dongdrill Team(1) HP(4) , Brick Dongchest Team(1) HP(4) , Bulk Launchstone Team(0) HP(10) , Brick VonLargedrive Team(1) HP(4) , Bulk McSlabmeat Team(0) HP(10) , Pike Mandrill Team(0) HP(9) , Fridge Vastdrive Team(0) HP(10) , Brick McBoomblast Team(0) HP(8) , Boom Blastfight Team(1) HP(4) , Pike VonLargechest Team(0) HP(10) , Chunk Slabbone Team(1) HP(4) , Chunk Launchmissle Team(1) HP(4) , Brick Hugemissle Team(1) HP(4) , Boom VonHugefight Team(1) HP(1) , Stern Mandrive Team(1) HP(4) , Boom Largestone Team(1) HP(4) , Pike Hugestone Team(1) HP(4) , Hammer Blaststone Team(1) HP(4) , Hammer Dongmissle Team(1) HP(4) , Pike McHugedrill Team(1) HP(4) , Brick Launchfight Team(1) HP(4) , Pike McDongdrill Team(1) HP(4) , Punch McExplodeslam Team(0) HP(6) , Hammer Slabbone Team(1) HP(1) , Pike Explodebone Team(0) HP(10) , Fridge Slabbone Team(1) HP(4) , Fridge McSlabdrive Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (9), Team 1 (24) ----
+i
+i ----- [Round 2. FIGHT!] -----
+‼ [Fridge Launchslam] missed [Punch McExplodeslam]
+√ [Brick Hugebone] hits [Brick Launchfight] for (7) damage.
+× *Brick Launchfight was defeated!*
+‼ [Stern Launchjolt] missed [Fridge Vastdrive]
+‼ [Stern VonVastfight] missed [Brick Hugebone]
+‼ [Punch McExplodeblast] missed [Pike VonLargechest]
+√ [Punch Dongdrill] hits [Punch McExplodeslam] for (4) damage.
+‼ [Bulk Blastfight] missed [Punch McExplodeslam]
+‼ [Brick Dongchest] missed [Bulk Launchstone]
+‼ [Brick VonLargedrive] missed [Bulk Launchstone]
+‼ [Bulk Launchstone] missed [Boom VonHugefight]
+√ [Bulk McSlabmeat] hits [Punch McExplodeblast] for (6) damage.
+× *Punch McExplodeblast was defeated!*
+√ [Pike Mandrill] hits [Boom VonHugefight] for (4) damage.
+× *Boom VonHugefight was defeated!*
+‼ [Fridge Vastdrive] missed [Hammer Slabbone]
+√ [Brick McBoomblast] hits [Hammer Slabbone] for (3) damage.
+× *Hammer Slabbone was defeated!*
+√ [Boom Blastfight] hits [Brick McBoomblast] for (1) damage.
+√ [Pike VonLargechest] hits [Chunk Slabbone] for (4) damage.
+× *Chunk Slabbone was defeated!*
+√ [Chunk Launchmissle] hits [Pike Mandrill] for (2) damage.
+‼ [Brick Hugemissle] missed [Pike Mandrill]
+√ [Stern Mandrive] hits [Punch McExplodeslam] for (3) damage.
+× *Punch McExplodeslam was defeated!*
+√ [Boom Largestone] hits [Brick McBoomblast] for (2) damage.
+√ [Pike Hugestone] hits [Bulk McSlabmeat] for (4) damage.
+√ [Hammer Blaststone] hits [Brick Hugebone] for (4) damage.
+‼ [Hammer Dongmissle] missed [Bulk McSlabmeat]
+‼ [Pike McHugedrill] missed [Bulk Launchstone]
+‼ [Pike McDongdrill] missed [Bulk Launchstone]
+‼ [Pike Explodebone] missed [Boom Largestone]
+√ [Fridge Slabbone] hits [Pike Mandrill] for (1) damage.
+√ [Fridge McSlabdrive] hits [Bulk Launchstone] for (2) damage.
+√ ----- [Round 2. OVER] Knockouts: 13, Combatants remaining: Fridge Launchslam Team(1) HP(4) , Brick Hugebone Team(0) HP(6) , Stern Launchjolt Team(1) HP(4) , Stern VonVastfight Team(1) HP(4) , Punch Dongdrill Team(1) HP(4) , Bulk Blastfight Team(1) HP(4) , Brick Dongchest Team(1) HP(4) , Brick VonLargedrive Team(1) HP(4) , Bulk Launchstone Team(0) HP(8) , Bulk McSlabmeat Team(0) HP(6) , Pike Mandrill Team(0) HP(6) , Fridge Vastdrive Team(0) HP(10) , Brick McBoomblast Team(0) HP(5) , Boom Blastfight Team(1) HP(4) , Pike VonLargechest Team(0) HP(10) , Chunk Launchmissle Team(1) HP(4) , Brick Hugemissle Team(1) HP(4) , Stern Mandrive Team(1) HP(4) , Boom Largestone Team(1) HP(4) , Pike Hugestone Team(1) HP(4) , Hammer Blaststone Team(1) HP(4) , Hammer Dongmissle Team(1) HP(4) , Pike McHugedrill Team(1) HP(4) , Pike McDongdrill Team(1) HP(4) , Pike Explodebone Team(0) HP(10) , Fridge Slabbone Team(1) HP(4) , Fridge McSlabdrive Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (8), Team 1 (19) ----
+i
+i ----- [Round 3. FIGHT!] -----
+‼ [Fridge Launchslam] missed [Bulk Launchstone]
+‼ [Brick Hugebone] missed [Hammer Dongmissle]
+‼ [Stern Launchjolt] missed [Fridge Vastdrive]
+‼ [Stern VonVastfight] missed [Brick Hugebone]
+√ [Bulk Blastfight] hits [Bulk McSlabmeat] for (4) damage.
+√ [Punch Dongdrill] hits [Pike Mandrill] for (3) damage.
+‼ [Brick Dongchest] missed [Bulk Launchstone]
+‼ [Brick VonLargedrive] missed [Bulk Launchstone]
+√ [Bulk Launchstone] hits [Hammer Blaststone] for (3) damage.
+√ [Bulk McSlabmeat] hits [Hammer Blaststone] for (6) damage.
+× *Hammer Blaststone was defeated!*
+‼ [Pike Mandrill] missed [Bulk Blastfight]
+√ [Fridge Vastdrive] hits [Punch Dongdrill] for (5) damage.
+× *Punch Dongdrill was defeated!*
+√ [Brick McBoomblast] hits [Chunk Launchmissle] for (4) damage.
+× *Chunk Launchmissle was defeated!*
+‼ [Boom Blastfight] missed [Brick McBoomblast]
+‼ [Pike VonLargechest] missed [Boom Largestone]
+‼ [Brick Hugemissle] missed [Pike Mandrill]
+√ [Stern Mandrive] hits [Pike VonLargechest] for (3) damage.
+‼ [Boom Largestone] missed [Brick McBoomblast]
+‼ [Pike Hugestone] missed [Bulk McSlabmeat]
+√ [Hammer Dongmissle] hits [Bulk McSlabmeat] for (2) damage.
+× *Bulk McSlabmeat was defeated!*
+‼ [Pike McHugedrill] missed [Bulk Launchstone]
+√ [Pike McDongdrill] hits [Bulk Launchstone] for (3) damage.
+√ [Pike Explodebone] hits [Boom Largestone] for (7) damage.
+× *Boom Largestone was defeated!*
+‼ [Fridge Slabbone] missed [Pike Mandrill]
+√ [Fridge McSlabdrive] hits [Bulk Launchstone] for (4) damage.
+√ ----- [Round 3. OVER] Knockouts: 18, Combatants remaining: Fridge Launchslam Team(1) HP(4) , Brick Hugebone Team(0) HP(6) , Stern Launchjolt Team(1) HP(4) , Stern VonVastfight Team(1) HP(4) , Bulk Blastfight Team(1) HP(4) , Brick Dongchest Team(1) HP(4) , Brick VonLargedrive Team(1) HP(4) , Bulk Launchstone Team(0) HP(1) , Pike Mandrill Team(0) HP(3) , Fridge Vastdrive Team(0) HP(10) , Brick McBoomblast Team(0) HP(5) , Boom Blastfight Team(1) HP(4) , Pike VonLargechest Team(0) HP(7) , Brick Hugemissle Team(1) HP(4) , Stern Mandrive Team(1) HP(4) , Pike Hugestone Team(1) HP(4) , Hammer Dongmissle Team(1) HP(4) , Pike McHugedrill Team(1) HP(4) , Pike McDongdrill Team(1) HP(4) , Pike Explodebone Team(0) HP(10) , Fridge Slabbone Team(1) HP(4) , Fridge McSlabdrive Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (7), Team 1 (15) ----
+i
+i ----- [Round 4. FIGHT!] -----
+√ [Fridge Launchslam] hits [Bulk Launchstone] for (4) damage.
+× *Bulk Launchstone was defeated!*
+‼ [Brick Hugebone] missed [Hammer Dongmissle]
+√ [Stern Launchjolt] hits [Fridge Vastdrive] for (4) damage.
+√ [Stern VonVastfight] hits [Brick Hugebone] for (4) damage.
+√ [Bulk Blastfight] hits [Pike VonLargechest] for (3) damage.
+‼ [Brick Dongchest] missed [Pike Mandrill]
+‼ [Brick VonLargedrive] missed [Brick McBoomblast]
+√ [Pike Mandrill] hits [Bulk Blastfight] for (8) damage.
+× *Bulk Blastfight was defeated!*
+√ [Fridge Vastdrive] hits [Stern Launchjolt] for (3) damage.
+√ [Brick McBoomblast] hits [Pike Hugestone] for (8) damage.
+× *Pike Hugestone was defeated!*
+√ [Boom Blastfight] hits [Brick McBoomblast] for (3) damage.
+‼ [Pike VonLargechest] missed [Fridge Launchslam]
+√ [Brick Hugemissle] hits [Pike Mandrill] for (3) damage.
+× *Pike Mandrill was defeated!*
+‼ [Stern Mandrive] missed [Pike VonLargechest]
+‼ [Hammer Dongmissle] missed [Fridge Vastdrive]
+√ [Pike McHugedrill] hits [Brick McBoomblast] for (3) damage.
+× *Brick McBoomblast was defeated!*
+‼ [Pike McDongdrill] missed [Pike Explodebone]
+√ [Pike Explodebone] hits [Boom Blastfight] for (4) damage.
+× *Boom Blastfight was defeated!*
+‼ [Fridge Slabbone] missed [Fridge Vastdrive]
+‼ [Fridge McSlabdrive] missed [Pike Explodebone]
+√ ----- [Round 4. OVER] Knockouts: 24, Combatants remaining: Fridge Launchslam Team(1) HP(4) , Brick Hugebone Team(0) HP(2) , Stern Launchjolt Team(1) HP(1) , Stern VonVastfight Team(1) HP(4) , Brick Dongchest Team(1) HP(4) , Brick VonLargedrive Team(1) HP(4) , Fridge Vastdrive Team(0) HP(6) , Pike VonLargechest Team(0) HP(4) , Brick Hugemissle Team(1) HP(4) , Stern Mandrive Team(1) HP(4) , Hammer Dongmissle Team(1) HP(4) , Pike McHugedrill Team(1) HP(4) , Pike McDongdrill Team(1) HP(4) , Pike Explodebone Team(0) HP(10) , Fridge Slabbone Team(1) HP(4) , Fridge McSlabdrive Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (4), Team 1 (12) ----
+i
+i ----- [Round 5. FIGHT!] -----
+‼ [Fridge Launchslam] missed [Brick Hugebone]
+√ [Brick Hugebone] hits [Hammer Dongmissle] for (3) damage.
+√ [Stern Launchjolt] hits [Fridge Vastdrive] for (1) damage.
+‼ [Stern VonVastfight] missed [Brick Hugebone]
+‼ [Brick Dongchest] missed [Pike Explodebone]
+‼ [Brick VonLargedrive] missed [Fridge Vastdrive]
+√ [Fridge Vastdrive] hits [Stern Launchjolt] for (7) damage.
+× *Stern Launchjolt was defeated!*
+√ [Pike VonLargechest] hits [Fridge Launchslam] for (5) damage.
+× *Fridge Launchslam was defeated!*
+‼ [Brick Hugemissle] missed [Pike VonLargechest]
+‼ [Stern Mandrive] missed [Pike VonLargechest]
+‼ [Hammer Dongmissle] missed [Fridge Vastdrive]
+√ [Pike McHugedrill] hits [Pike Explodebone] for (3) damage.
+√ [Pike McDongdrill] hits [Pike Explodebone] for (1) damage.
+‼ [Pike Explodebone] missed [Fridge Slabbone]
+√ [Fridge Slabbone] hits [Fridge Vastdrive] for (3) damage.
+√ [Fridge McSlabdrive] hits [Pike Explodebone] for (2) damage.
+√ ----- [Round 5. OVER] Knockouts: 26, Combatants remaining: Brick Hugebone Team(0) HP(2) , Stern VonVastfight Team(1) HP(4) , Brick Dongchest Team(1) HP(4) , Brick VonLargedrive Team(1) HP(4) , Fridge Vastdrive Team(0) HP(2) , Pike VonLargechest Team(0) HP(4) , Brick Hugemissle Team(1) HP(4) , Stern Mandrive Team(1) HP(4) , Hammer Dongmissle Team(1) HP(1) , Pike McHugedrill Team(1) HP(4) , Pike McDongdrill Team(1) HP(4) , Pike Explodebone Team(0) HP(4) , Fridge Slabbone Team(1) HP(4) , Fridge McSlabdrive Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (4), Team 1 (10) ----
+i
+i ----- [Round 6. FIGHT!] -----
+√ [Brick Hugebone] hits [Hammer Dongmissle] for (5) damage.
+× *Hammer Dongmissle was defeated!*
+√ [Stern VonVastfight] hits [Brick Hugebone] for (3) damage.
+× *Brick Hugebone was defeated!*
+√ [Brick Dongchest] hits [Pike Explodebone] for (1) damage.
+‼ [Brick VonLargedrive] missed [Fridge Vastdrive]
+√ [Fridge Vastdrive] hits [Pike McDongdrill] for (7) damage.
+× *Pike McDongdrill was defeated!*
+√ [Pike VonLargechest] hits [Brick VonLargedrive] for (4) damage.
+× *Brick VonLargedrive was defeated!*
+‼ [Brick Hugemissle] missed [Pike VonLargechest]
+‼ [Stern Mandrive] missed [Pike VonLargechest]
+√ [Pike McHugedrill] hits [Pike Explodebone] for (1) damage.
+‼ [Pike Explodebone] missed [Fridge Slabbone]
+‼ [Fridge Slabbone] missed [Fridge Vastdrive]
+‼ [Fridge McSlabdrive] missed [Pike Explodebone]
+√ ----- [Round 6. OVER] Knockouts: 30, Combatants remaining: Stern VonVastfight Team(1) HP(4) , Brick Dongchest Team(1) HP(4) , Fridge Vastdrive Team(0) HP(2) , Pike VonLargechest Team(0) HP(4) , Brick Hugemissle Team(1) HP(4) , Stern Mandrive Team(1) HP(4) , Pike McHugedrill Team(1) HP(4) , Pike Explodebone Team(0) HP(2) , Fridge Slabbone Team(1) HP(4) , Fridge McSlabdrive Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (3), Team 1 (7) ----
+i
+i ----- [Round 7. FIGHT!] -----
+√ [Stern VonVastfight] hits [Pike VonLargechest] for (2) damage.
+‼ [Brick Dongchest] missed [Pike Explodebone]
+√ [Fridge Vastdrive] hits [Brick Dongchest] for (4) damage.
+× *Brick Dongchest was defeated!*
+‼ [Pike VonLargechest] missed [Fridge McSlabdrive]
+‼ [Brick Hugemissle] missed [Pike VonLargechest]
+‼ [Stern Mandrive] missed [Pike VonLargechest]
+√ [Pike McHugedrill] hits [Pike Explodebone] for (4) damage.
+× *Pike Explodebone was defeated!*
+‼ [Fridge Slabbone] missed [Fridge Vastdrive]
+√ [Fridge McSlabdrive] hits [Fridge Vastdrive] for (1) damage.
+√ ----- [Round 7. OVER] Knockouts: 32, Combatants remaining: Stern VonVastfight Team(1) HP(4) , Fridge Vastdrive Team(0) HP(1) , Pike VonLargechest Team(0) HP(2) , Brick Hugemissle Team(1) HP(4) , Stern Mandrive Team(1) HP(4) , Pike McHugedrill Team(1) HP(4) , Fridge Slabbone Team(1) HP(4) , Fridge McSlabdrive Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (2), Team 1 (6) ----
+i
+i ----- [Round 8. FIGHT!] -----
+‼ [Stern VonVastfight] missed [Pike VonLargechest]
+√ [Fridge Vastdrive] hits [Fridge McSlabdrive] for (8) damage.
+× *Fridge McSlabdrive was defeated!*
+‼ [Pike VonLargechest] missed [Stern VonVastfight]
+‼ [Brick Hugemissle] missed [Pike VonLargechest]
+√ [Stern Mandrive] hits [Pike VonLargechest] for (1) damage.
+‼ [Pike McHugedrill] missed [Fridge Vastdrive]
+‼ [Fridge Slabbone] missed [Fridge Vastdrive]
+√ ----- [Round 8. OVER] Knockouts: 33, Combatants remaining: Stern VonVastfight Team(1) HP(4) , Fridge Vastdrive Team(0) HP(1) , Pike VonLargechest Team(0) HP(1) , Brick Hugemissle Team(1) HP(4) , Stern Mandrive Team(1) HP(4) , Pike McHugedrill Team(1) HP(4) , Fridge Slabbone Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (2), Team 1 (5) ----
+i
+i ----- [Round 9. FIGHT!] -----
+‼ [Stern VonVastfight] missed [Pike VonLargechest]
+√ [Fridge Vastdrive] hits [Pike McHugedrill] for (8) damage.
+× *Pike McHugedrill was defeated!*
+√ [Pike VonLargechest] hits [Stern VonVastfight] for (8) damage.
+× *Stern VonVastfight was defeated!*
+‼ [Brick Hugemissle] missed [Pike VonLargechest]
+‼ [Stern Mandrive] missed [Pike VonLargechest]
+√ [Fridge Slabbone] hits [Fridge Vastdrive] for (4) damage.
+× *Fridge Vastdrive was defeated!*
+√ ----- [Round 9. OVER] Knockouts: 36, Combatants remaining: Pike VonLargechest Team(0) HP(1) , Brick Hugemissle Team(1) HP(4) , Stern Mandrive Team(1) HP(4) , Fridge Slabbone Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (1), Team 1 (3) ----
+i
+i ----- [Round 10. FIGHT!] -----
+√ [Pike VonLargechest] hits [Stern Mandrive] for (3) damage.
+√ [Brick Hugemissle] hits [Pike VonLargechest] for (3) damage.
+× *Pike VonLargechest was defeated!*
+i Stern Mandrive has no one to fight.
+i Fridge Slabbone has no one to fight.
+√ ----- [Round 10. OVER] Knockouts: 37, Combatants remaining: Brick Hugemissle Team(1) HP(4) , Stern Mandrive Team(1) HP(1) , Fridge Slabbone Team(1) HP(4)  -----
+√ ---- Team Strength: Team 0 (0), Team 1 (3) ----
+√
+√ ----- Final results: Fridge Launchslam (HP:-1, Kills: 1), Brick Hugebone (HP:-1, Kills: 3), Stern Launchjolt (HP:-6, Kills: 0), Stern VonVastfight (HP:-4, Kills: 1), Punch McExplodeblast (HP:-2, Kills: 0), Punch Dongdrill (HP:-1, Kills: 0), Bulk Blastfight (HP:-4, Kills: 0), Punch Hugefight (HP:-1, Kills: 0), Brick Dongchest (HP:0, Kills: 0), Bulk Launchstone (HP:-3, Kills: 0), Boom Explodeslam (HP:-1, Kills: 0), Brick VonLargedrive (HP:0, Kills: 0), Bulk McSlabmeat (HP:0, Kills: 2), Pike Mandrill (HP:0, Kills: 2), Boom Vastbone (HP:-3, Kills: 0), Fridge Vastdrive (HP:-3, Kills: 7), Brick McBoomblast (HP:-1, Kills: 3), Boom Blastfight (HP:0, Kills: 0), Pike VonLargechest (HP:-2, Kills: 5), Chunk Slabbone (HP:0, Kills: 0), Chunk Launchmissle (HP:0, Kills: 0), Brick Hugemissle (HP:4, Kills: 2), Fridge Slabfight (HP:-3, Kills: 1), Boom VonHugefight (HP:-3, Kills: 0), Chunk McExplodebone (HP:0, Kills: 0), Stern Mandrive (HP:1, Kills: 1), Boom Largestone (HP:-3, Kills: 0), Pike Hugestone (HP:-4, Kills: 0), Hammer Blaststone (HP:-5, Kills: 0), Hammer Dongmissle (HP:-4, Kills: 1), Pike McHugedrill (HP:-4, Kills: 2), Brick Launchfight (HP:-3, Kills: 0), Fridge VonBlastblast (HP:-1, Kills: 0), Punch McLaunchslam (HP:-3, Kills: 1), Pike McDongdrill (HP:-3, Kills: 0), Punch McExplodeslam (HP:-1, Kills: 1), Hammer Slabbone (HP:-2, Kills: 0), Pike Explodebone (HP:-2, Kills: 3), Fridge Slabbone (HP:4, Kills: 1), Fridge McSlabdrive (HP:-4, Kills: 0) -----
+√ -> Team 1 WINS! <-
+√
+√ -> Fridge Vastdrive (Team 0) had the most kills: 7 <-
+√ -- The story of Fridge Vastdrive --
+√ - Hit Boom Explodeslam for 5 damage. -
+√ - Defeated Boom Explodeslam -
+√ - Hit Punch Dongdrill for 5 damage. -
+√ - Defeated Punch Dongdrill -
+√ - Got hit by Stern Launchjolt for 4 damage. -
+√ - Hit Stern Launchjolt for 3 damage. -
+√ - Got hit by Stern Launchjolt for 1 damage. -
+√ - Hit Stern Launchjolt for 7 damage. -
+√ - Defeated Stern Launchjolt -
+√ - Got hit by Fridge Slabbone for 3 damage. -
+√ - Hit Pike McDongdrill for 7 damage. -
+√ - Defeated Pike McDongdrill -
+√ - Hit Brick Dongchest for 4 damage. -
+√ - Defeated Brick Dongchest -
+√ - Got hit by Fridge McSlabdrive for 1 damage. -
+√ - Hit Fridge McSlabdrive for 8 damage. -
+√ - Defeated Fridge McSlabdrive -
+√ - Hit Pike McHugedrill for 8 damage. -
+√ - Defeated Pike McHugedrill -
+√ - Got hit by Fridge Slabbone for 4 damage. -
+√ - I dead! Fridge Slabbone beat me :( -

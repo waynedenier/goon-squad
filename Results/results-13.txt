@@ -1,0 +1,186 @@
+// 10 heros vs 30 Goblins, goblin name generator, output reformatting //
+
+C:\SourceCode\doodle>node attack.js
+
+i ----- [Round 1. FIGHT!] -----
+‼ [Trux Knifeslag] missed [Brick McLaunchdrive]
+‼ [Bulk Hugejolt] missed [Dax Dirtriz]
+√ [Chunk Largemissle] hits [Flurg Dirtcruz] for (8) damage.
+× *Flurg Dirtcruz was defeated!*
+‼ [Skitz Knifebag] missed [Fridge Boomstone]
+√ [Punch VonLaunchjolt] hits [Teeks Bloodriz] for (7) damage.
+× *Teeks Bloodriz was defeated!*
+‼ [Teeks Bladecruz] missed [Fridge Boomstone]
+√ [Flurg Burntac] hits [Chunk Hugemissle] for (2) damage.
+‼ [Rip Stabbag] missed [Pike Vastbone]
+√ [Skitz Slicelug] hits [Fridge VonSlabdrill] for (2) damage.
+√ [Flicks Bloodrixx] hits [Fridge Boomstone] for (1) damage.
+√ [Chunk VonDongdrive] hits [Teeks Bladebag] for (5) damage.
+× *Teeks Bladebag was defeated!*
+√ [Brick McLaunchdrive] hits [Rip Tearrixx] for (7) damage.
+× *Rip Tearrixx was defeated!*
+‼ [Slag Filthriz] missed [Fridge VonSlabdrill]
+√ [Rip Slicecruz] hits [Fridge Boomstone] for (1) damage.
+√ [Fridge VonSlabdrill] hits [Rip Slicecruz] for (8) damage.
+× *Rip Slicecruz was defeated!*
+‼ [Flicks Burntac] missed [Punch VonLaunchjolt]
+√ [Skurm Stabrixx] hits [Chunk Largemissle] for (4) damage.
+√ [Skitz Bladelug] hits [Pike Vastbone] for (2) damage.
+‼ [Rip Ripcruz] missed [Punch VonLaunchjolt]
+‼ [Flicks Knifebag] missed [Chunk Hugemissle]
+√ [Chunk Hugemissle] hits [Skurm Dirtriz] for (8) damage.
+× *Skurm Dirtriz was defeated!*
+√ [Gorbag Tearslag] hits [Chunk Largemissle] for (4) damage.
+‼ [Flicks Bladeriz] missed [Bulk Hugejolt]
+√ [Dax Dirtriz] hits [Fridge Boomstone] for (1) damage.
+√ [Pike Vastbone] hits [Rip Bladerixx] for (3) damage.
+‼ [Trux Dirttac] missed [Punch VonLaunchjolt]
+√ [Fridge Boomstone] hits [Rip Stabbag] for (7) damage.
+× *Rip Stabbag was defeated!*
+√ [Slurm Dirtslag] hits [Chunk VonDongdrive] for (1) damage.
+√ [Skitz Pussrixx] hits [Punch VonLaunchjolt] for (3) damage.
+‼ [Slurm Bloodslag] missed [Punch VonLaunchjolt]
+√ [Flurg Biterixx] hits [Punch VonLaunchjolt] for (3) damage.
+√ [Skurm Stabcruz] hits [Brick McLaunchdrive] for (2) damage.
+√ [Skitz Bloodriz] hits [Bulk Hugejolt] for (1) damage.
+√ [Rip Bladerixx] hits [Punch Vastjolt] for (1) damage.
+‼ [Punch Vastjolt] missed [Skitz Slicelug]
+
+√ ----- [Round 1. OVER] Knockouts: 7, Combatants remaining: Trux Knifeslag Team(1) HP(4) , Bulk Hugejolt Team(0) HP(9) , Chunk Largemissle Team(0) HP(2) , Skitz Knifebag Team(1) HP(4) , Punch VonLaunchjolt Team(0) HP(4) , Teeks Bladecruz Team(1) HP(4) , Flurg Burntac Team(1) HP(4) , Skitz Slicelug Team(1) HP(4) , Flicks Bloodrixx Team(1) HP(4) , Chunk VonDongdrive Team(0) HP(9) , Brick McLaunchdrive Team(0) HP(8) , Slag Filthriz Team(1) HP(4) , Fridge VonSlabdrill Team(0) HP(8) , Flicks Burntac Team(1) HP(4) , Skurm Stabrixx Team(1) HP(4) , Skitz Bladelug Team(1) HP(4) , Rip Ripcruz Team(1) HP(4) , Flicks Knifebag Team(1) HP(4) , Chunk Hugemissle Team(0) HP(8) , Gorbag Tearslag Team(1) HP(4) , Flicks Bladeriz Team(1) HP(4) , Dax Dirtriz Team(1) HP(4) , Pike Vastbone Team(0) HP(8) , Trux Dirttac Team(1) HP(4) , Fridge Boomstone Team(0) HP(7) , Slurm Dirtslag Team(1) HP(4) , Skitz Pussrixx Team(1) HP(4) , Slurm Bloodslag Team(1) HP(4) , Flurg Biterixx Team(1) HP(4) , Skurm Stabcruz Team(1) HP(4) , Skitz Bloodriz Team(1) HP(4) , Rip Bladerixx Team(1) HP(1) , Punch Vastjolt Team(0) HP(9)  -----
+√ ---- Team Strength: Team 0 (10), Team 1 (23) ----
+
+i ----- [Round 2. FIGHT!] -----
+‼ [Trux Knifeslag] missed [Brick McLaunchdrive]
+√ [Bulk Hugejolt] hits [Dax Dirtriz] for (8) damage.
+× *Dax Dirtriz was defeated!*
+√ [Chunk Largemissle] hits [Skitz Bladelug] for (6) damage.
+× *Skitz Bladelug was defeated!*
+‼ [Punch VonLaunchjolt] missed [Flurg Biterixx]
+‼ [Skitz Knifebag] missed [Fridge Boomstone]
+√ [Flurg Burntac] hits [Chunk Hugemissle] for (4) damage.
+‼ [Teeks Bladecruz] missed [Fridge Boomstone]
+√ [Skitz Slicelug] hits [Fridge VonSlabdrill] for (4) damage.
+√ [Chunk VonDongdrive] hits [Skitz Pussrixx] for (8) damage.
+× *Skitz Pussrixx was defeated!*
+√ [Brick McLaunchdrive] hits [Rip Ripcruz] for (6) damage.
+× *Rip Ripcruz was defeated!*
+√ [Flicks Bloodrixx] hits [Fridge Boomstone] for (3) damage.
+‼ [Slag Filthriz] missed [Fridge VonSlabdrill]
+‼ [Fridge VonSlabdrill] missed [Slag Filthriz]
+‼ [Flicks Burntac] missed [Punch VonLaunchjolt]
+‼ [Skurm Stabrixx] missed [Chunk Largemissle]
+√ [Flicks Knifebag] hits [Chunk Hugemissle] for (2) damage.
+√ [Chunk Hugemissle] hits [Flicks Bloodrixx] for (8) damage.
+× *Flicks Bloodrixx was defeated!*
+√ [Gorbag Tearslag] hits [Chunk Largemissle] for (1) damage.
+√ [Flicks Bladeriz] hits [Bulk Hugejolt] for (4) damage.
+‼ [Pike Vastbone] missed [Rip Bladerixx]
+√ [Trux Dirttac] hits [Punch VonLaunchjolt] for (1) damage.
+√ [Fridge Boomstone] hits [Slurm Dirtslag] for (4) damage.
+× *Slurm Dirtslag was defeated!*
+‼ [Slurm Bloodslag] missed [Punch VonLaunchjolt]
+‼ [Flurg Biterixx] missed [Punch VonLaunchjolt]
+‼ [Skurm Stabcruz] missed [Brick McLaunchdrive]
+‼ [Skitz Bloodriz] missed [Bulk Hugejolt]
+√ [Rip Bladerixx] hits [Punch Vastjolt] for (3) damage.
+√ [Punch Vastjolt] hits [Skitz Slicelug] for (4) damage.
+× *Skitz Slicelug was defeated!*
+
+√ ----- [Round 2. OVER] Knockouts: 14, Combatants remaining: Trux Knifeslag Team(1) HP(4) , Bulk Hugejolt Team(0) HP(5) , Chunk Largemissle Team(0) HP(1) , Punch VonLaunchjolt Team(0) HP(3) , Skitz Knifebag Team(1) HP(4) , Flurg Burntac Team(1) HP(4) , Teeks Bladecruz Team(1) HP(4) , Chunk VonDongdrive Team(0) HP(9) , Brick McLaunchdrive Team(0) HP(8) , Slag Filthriz Team(1) HP(4) , Fridge VonSlabdrill Team(0) HP(4) , Flicks Burntac Team(1) HP(4) , Skurm Stabrixx Team(1) HP(4) , Flicks Knifebag Team(1) HP(4) , Chunk Hugemissle Team(0) HP(2) , Gorbag Tearslag Team(1) HP(4) , Flicks Bladeriz Team(1) HP(4) , Pike Vastbone Team(0) HP(8) , Trux Dirttac Team(1) HP(4) , Fridge Boomstone Team(0) HP(4) , Slurm Bloodslag Team(1) HP(4) , Flurg Biterixx Team(1) HP(4) , Skurm Stabcruz Team(1) HP(4) , Skitz Bloodriz Team(1) HP(4) , Rip Bladerixx Team(1) HP(1) , Punch Vastjolt Team(0) HP(6)  -----
+√ ---- Team Strength: Team 0 (10), Team 1 (16) ----
+
+i ----- [Round 3. FIGHT!] -----
+‼ [Trux Knifeslag] missed [Brick McLaunchdrive]
+√ [Bulk Hugejolt] hits [Flurg Burntac] for (6) damage.
+× *Flurg Burntac was defeated!*
+√ [Chunk Largemissle] hits [Rip Bladerixx] for (8) damage.
+× *Rip Bladerixx was defeated!*
+‼ [Skitz Knifebag] missed [Fridge Boomstone]
+√ [Punch VonLaunchjolt] hits [Flurg Biterixx] for (4) damage.
+× *Flurg Biterixx was defeated!*
+‼ [Teeks Bladecruz] missed [Fridge Boomstone]
+√ [Brick McLaunchdrive] hits [Skurm Stabcruz] for (7) damage.
+× *Skurm Stabcruz was defeated!*
+√ [Chunk VonDongdrive] hits [Skitz Bloodriz] for (5) damage.
+× *Skitz Bloodriz was defeated!*
+‼ [Slag Filthriz] missed [Fridge VonSlabdrill]
+√ [Fridge VonSlabdrill] hits [Slag Filthriz] for (7) damage.
+× *Slag Filthriz was defeated!*
+√ [Flicks Burntac] hits [Punch VonLaunchjolt] for (4) damage.
+× *Punch VonLaunchjolt was defeated!*
+‼ [Skurm Stabrixx] missed [Chunk Largemissle]
+√ [Flicks Knifebag] hits [Chunk Hugemissle] for (1) damage.
+√ [Chunk Hugemissle] hits [Teeks Bladecruz] for (3) damage.
+‼ [Gorbag Tearslag] missed [Chunk Largemissle]
+√ [Flicks Bladeriz] hits [Bulk Hugejolt] for (1) damage.
+‼ [Trux Dirttac] missed [Fridge Boomstone]
+√ [Pike Vastbone] hits [Flicks Burntac] for (7) damage.
+× *Flicks Burntac was defeated!*
+√ [Fridge Boomstone] hits [Gorbag Tearslag] for (8) damage.
+× *Gorbag Tearslag was defeated!*
+‼ [Slurm Bloodslag] missed [Fridge VonSlabdrill]
+‼ [Punch Vastjolt] missed [Trux Dirttac]
+
+√ ----- [Round 3. OVER] Knockouts: 23, Combatants remaining: Trux Knifeslag Team(1) HP(4) , Bulk Hugejolt Team(0) HP(4) , Chunk Largemissle Team(0) HP(1) , Skitz Knifebag Team(1) HP(4) , Teeks Bladecruz Team(1) HP(1) , Brick McLaunchdrive Team(0) HP(8) , Chunk VonDongdrive Team(0) HP(9) , Fridge VonSlabdrill Team(0) HP(4) , Skurm Stabrixx Team(1) HP(4) , Flicks Knifebag Team(1) HP(4) , Chunk Hugemissle Team(0) HP(1) , Flicks Bladeriz Team(1) HP(4) , Trux Dirttac Team(1) HP(4) , Pike Vastbone Team(0) HP(8) , Fridge Boomstone Team(0) HP(4) , Slurm Bloodslag Team(1) HP(4) , Punch Vastjolt Team(0) HP(6)  -----
+√ ---- Team Strength: Team 0 (9), Team 1 (8) ----
+
+i ----- [Round 4. FIGHT!] -----
+‼ [Trux Knifeslag] missed [Brick McLaunchdrive]
+√ [Bulk Hugejolt] hits [Trux Knifeslag] for (4) damage.
+× *Trux Knifeslag was defeated!*
+‼ [Chunk Largemissle] missed [Slurm Bloodslag]
+‼ [Skitz Knifebag] missed [Fridge Boomstone]
+‼ [Teeks Bladecruz] missed [Fridge Boomstone]
+√ [Chunk VonDongdrive] hits [Flicks Knifebag] for (8) damage.
+× *Flicks Knifebag was defeated!*
+√ [Brick McLaunchdrive] hits [Skurm Stabrixx] for (6) damage.
+× *Skurm Stabrixx was defeated!*
+√ [Fridge VonSlabdrill] hits [Teeks Bladecruz] for (7) damage.
+× *Teeks Bladecruz was defeated!*
+√ [Chunk Hugemissle] hits [Skitz Knifebag] for (8) damage.
+× *Skitz Knifebag was defeated!*
+‼ [Flicks Bladeriz] missed [Bulk Hugejolt]
+‼ [Pike Vastbone] missed [Flicks Bladeriz]
+√ [Trux Dirttac] hits [Fridge Boomstone] for (2) damage.
+√ [Fridge Boomstone] hits [Trux Dirttac] for (5) damage.
+× *Trux Dirttac was defeated!*
+‼ [Slurm Bloodslag] missed [Fridge VonSlabdrill]
+√ [Punch Vastjolt] hits [Slurm Bloodslag] for (5) damage.
+× *Slurm Bloodslag was defeated!*
+
+√ ----- [Round 4. OVER] Knockouts: 30, Combatants remaining: Bulk Hugejolt Team(0) HP(4) , Chunk Largemissle Team(0) HP(1) , Chunk VonDongdrive Team(0) HP(9) , Brick McLaunchdrive Team(0) HP(8) , Fridge VonSlabdrill Team(0) HP(4) , Chunk Hugemissle Team(0) HP(1) , Flicks Bladeriz Team(1) HP(4) , Pike Vastbone Team(0) HP(8) , Fridge Boomstone Team(0) HP(2) , Punch Vastjolt Team(0) HP(6)  -----
+√ ---- Team Strength: Team 0 (9), Team 1 (1) ----
+
+i ----- [Round 5. FIGHT!] -----
+√ [Bulk Hugejolt] hits [Flicks Bladeriz] for (6) damage.
+× *Flicks Bladeriz was defeated!*
+i Chunk Largemissle has no one to fight.
+i Chunk VonDongdrive has no one to fight.
+i Brick McLaunchdrive has no one to fight.
+i Fridge VonSlabdrill has no one to fight.
+i Chunk Hugemissle has no one to fight.
+i Pike Vastbone has no one to fight.
+i Fridge Boomstone has no one to fight.
+i Punch Vastjolt has no one to fight.
+
+√ ----- [Round 5. OVER] Knockouts: 31, Combatants remaining: Bulk Hugejolt Team(0) HP(4) , Chunk Largemissle Team(0) HP(1) , Chunk VonDongdrive Team(0) HP(9) , Brick McLaunchdrive Team(0) HP(8) , Fridge VonSlabdrill Team(0) HP(4) , Chunk Hugemissle Team(0) HP(1) , Pike Vastbone Team(0) HP(8) , Fridge Boomstone Team(0) HP(2) , Punch Vastjolt Team(0) HP(6)  -----
+√ ---- Team Strength: Team 0 (9), Team 1 (0) ----
+
+√ ----- Final results: Trux Knifeslag (HP:0, Kills: 0), Bulk Hugejolt (HP:4, Kills: 4), Chunk Largemissle (HP:1, Kills: 3), Skitz Knifebag (HP:-4, Kills: 0), Punch VonLaunchjolt (HP:-1, Kills: 2), Teeks Bladecruz (HP:-6, Kills: 0), Flurg Burntac (HP:-2, Kills: 0), Rip Stabbag (HP:-3, Kills: 0), Skitz Slicelug (HP:0, Kills: 0), Chunk VonDongdrive (HP:9, Kills: 4), Brick McLaunchdrive (HP:8, Kills: 4), Flicks Bloodrixx (HP:-4, Kills: 0), Slag Filthriz (HP:-3, Kills: 0), Rip Slicecruz (HP:-4, Kills: 0), Fridge VonSlabdrill (HP:4, Kills: 3), Flicks Burntac (HP:-3, Kills: 1), Skurm Stabrixx (HP:-2, Kills: 0), Skitz Bladelug (HP:-2, Kills: 0), Rip Ripcruz (HP:-2, Kills: 0), Flicks Knifebag (HP:-4, Kills: 0), Chunk Hugemissle (HP:1, Kills: 3), Gorbag Tearslag (HP:-4, Kills: 0), Flicks Bladeriz (HP:-2, Kills: 0), Dax Dirtriz (HP:-4, Kills: 0), Pike Vastbone (HP:8, Kills: 1), Trux Dirttac (HP:-1, Kills: 0), Teeks Bladebag (HP:-1, Kills: 0), Fridge Boomstone (HP:2, Kills: 4), Teeks Bloodriz (HP:-3, Kills: 0), Flurg Dirtcruz (HP:-4, Kills: 0), Slurm Dirtslag (HP:0, Kills: 0), Skitz Pussrixx (HP:-4, Kills: 0), Slurm Bloodslag (HP:-1, Kills: 0), Rip Tearrixx (HP:-3, Kills: 0), Flurg Biterixx (HP:0, Kills: 0), Skurm Stabcruz (HP:-3, Kills: 0), Skitz Bloodriz (HP:-1, Kills: 0), Rip Bladerixx (HP:-7, Kills: 0), Skurm Dirtriz (HP:-4, Kills: 0), Punch Vastjolt (HP:6, Kills: 2) -----
+√ -> Team 0 WINS! <-
+
+√ -> Fridge Boomstone (Team 0) had the most kills: 4 <-
+√ -- The story of Fridge Boomstone --
+√ - Got hit by Flicks Bloodrixx for 1 damage. -
+√ - Got hit by Rip Slicecruz for 1 damage. -
+√ - Got hit by Dax Dirtriz for 1 damage. -
+√ - Hit Rip Stabbag for 7 damage. -
+√ - Defeated Rip Stabbag -
+√ - Got hit by Flicks Bloodrixx for 3 damage. -
+√ - Hit Slurm Dirtslag for 4 damage. -
+√ - Defeated Slurm Dirtslag -
+√ - Hit Gorbag Tearslag for 8 damage. -
+√ - Defeated Gorbag Tearslag -
+√ - Got hit by Trux Dirttac for 2 damage. -
+√ - Hit Trux Dirttac for 5 damage. -
+√ - Defeated Trux Dirttac -
