@@ -174,8 +174,8 @@ var battle = function(){
         combatants.push(hero);  
     }
 
-    for (let i = 0; i < 1; i++) {
-        var hero = helpers.getDragon(roll(20));
+    for (let i = 0; i < 2; i++) {
+        var hero = helpers.getZombo(roll(20));
         hero.team = 1;
         hero.name = hero.name.yellow;
         combatants.push(hero);  

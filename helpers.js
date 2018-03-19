@@ -1,6 +1,7 @@
 const spaceMutiny = require('./space-mutiny.js');
 const goblinNames = require('./goblin-names.js');
 const dragonNames = require('./dragon-names.js');
+const zombieNames = require('./zombie-names.js');
 
 var helpers = {}
 module['exports'] = helpers;
@@ -59,6 +60,29 @@ helpers.getGobo = function(initiative) {
     return gobo;
 }
 
+helpers.getZombo = function(initiative) {
+    var zombo = {
+        id: helpers.getId(),
+        name:'[' + zombieNames.getName()+ ']',
+        attacks: [
+            {
+                attackModifier: 3,
+                damageModifier: 4,
+                damageDice: 8,
+                numberOfDamageDice: 2,
+            }
+        ],
+        AC: 8,
+        hitpoints: 22,
+        initiativeRoll: initiative ? initiative : 0,
+        kills: 0,
+        targetId: -1,
+        history: [],
+        team: 0
+    }
+    return zombo;
+}
+
 helpers.getGnoll = function(initiative) {
     var gnoll = {
         id: helpers.getId(),
@@ -114,7 +138,7 @@ helpers.getMinotaurSkeleton = function(initiative) {
 helpers.getDragon = function(initiative) {
     var dragon = {
         id: helpers.getId(),
-        name: dragonNames.getName().green,
+        name: '[' + dragonNames.getName() + ']',
         attacks: [
             {
                 attackModifier: 14,
