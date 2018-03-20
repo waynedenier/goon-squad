@@ -1,6 +1,6 @@
-const logSymbols = require('log-symbols');
 const colors = require('colors');
 const helpers = require('./helpers.js');
+const outputProvider = require('./output-provider.js');
 
 colors.setTheme({
     damageText: ['white', 'bgRed']
@@ -8,33 +8,9 @@ colors.setTheme({
 
 /// ------------------------ Providers ------------------------
 
-var outputProvider = {
-    mode: 'full',
-    low: function(msg){
-        console.log(logSymbols.info,msg);
-    },
-    high: function(msg){
-        console.log(logSymbols.success,msg);
-    },
-    attack: function(msg){
-        console.log(logSymbols.success,msg);
-    },
-    miss: function(msg){
-        console.log(logSymbols.warning,msg);
-    },
-    kill: function(msg){
-        console.log(logSymbols.error,msg);
-    },
-    linebreak: function(){
-        console.log();
-    }
-};
 
 /// ------------------------ Functions ------------------------
 
-var roll = function(numberOfSides){
-    return Math.floor(Math.random() * numberOfSides) + 1;
-}
 
 var chooseTarget = function(attacker, combatants){
     // see if the attacker already has a target
@@ -63,7 +39,7 @@ var chooseTarget = function(attacker, combatants){
 
 var attack = function(attacker, target, attackIndex){
     //roll to hit
-    var attackHits = (attacker.attacks[attackIndex].attackModifier + roll(20)) >= target.AC;
+    var attackHits = (attacker.attacks[attackIndex].attackModifier + helpers.roll(20)) >= target.AC;
 
     if(!attackHits){
         outputProvider.miss(attacker.name + ' missed ' + target.name);
@@ -73,7 +49,7 @@ var attack = function(attacker, target, attackIndex){
     var damageRoll = 0;
 
     for (let i = 0; i < attacker.attacks[attackIndex].numberOfDamageDice; i++) {
-        damageRoll = damageRoll + roll(attacker.attacks[attackIndex].damageDice);     
+        damageRoll = damageRoll + helpers.roll(attacker.attacks[attackIndex].damageDice);     
     }
 
     var totalDamage = attacker.attacks[attackIndex].damageModifier + damageRoll;
@@ -85,6 +61,10 @@ var attack = function(attacker, target, attackIndex){
 
     outputProvider.attack(attacker.name + ' hits ' + target.name + ' for ' +
         ('(' + totalDamage.toString() + ')').damageText + ' damage.');
+
+    target.postattackConditions.forEach(element => {
+       element(attacker, target, attackIndex); 
+    });
 }
 
 var sortByInitiative = function(a,b){
@@ -160,22 +140,15 @@ var battle = function(){
     var totalTeams = 2;
     var combatants = [];
 
-    // for (let i = 0; i < totalCombatants; i++) {
-    //     var hero = helpers.getGobo(roll(20));
-    //     hero.team = (i % totalTeams);
-    //     hero.name = colorCode(hero.name, hero.team);
-    //     combatants.push(hero);  
-    // }
-
     for (let i = 0; i < 4; i++) {
-        var hero = helpers.getHero(roll(20));
+        var hero = helpers.getHero(helpers.roll(20));
         hero.team = 0;
         hero.name = hero.name.cyan;
         combatants.push(hero);  
     }
 
     for (let i = 0; i < 2; i++) {
-        var hero = helpers.getZombo(roll(20));
+        var hero = helpers.getZombo(helpers.roll(20));
         hero.team = 1;
         hero.name = hero.name.yellow;
         combatants.push(hero);  
@@ -184,7 +157,7 @@ var battle = function(){
     //combatants.push(minotaurSkeleton);
 
     // for (let i = 0; i < 12; i++) {
-    //     var gobo = helpers.getGobo(roll(20));
+    //     var gobo = helpers.getGobo(helpers.roll(20));
     //     gobo.team = 1;
     //     gobo.name = gobo.name.green;
     //     combatants.push(gobo);  
@@ -212,7 +185,7 @@ var battle = function(){
         for (let i = 0; i < totalTeams; i++) {
             teamSurvivors.push(0);          
         }
-
+ 
         survivors.forEach(element => {
             teamSurvivors[element.team]++;
         });
@@ -284,7 +257,7 @@ var diceTesting = function(sides, trials){
     }
 
     for(var j=0;j<trials;j++){
-        outcomes[roll(sides)-1]++;
+        outcomes[helpers.roll(sides)-1]++;
     }
 
     console.log('[Number of trials for d' + sides + ': ' + trials + ']');
@@ -313,7 +286,12 @@ var targetingTest = function(){
 //targetingTest();
 
 var attackTest = function(){
-    attack(getGobo(), getGobo());
+    var hero = helpers.getHero();
+    
+    var zombo = helpers.getZombo();
+    zombo.hitpoints = 1;
+    
+    attack(hero, zombo, 0);
 }
 //attackTest();
 

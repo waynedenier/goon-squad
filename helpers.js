@@ -2,6 +2,8 @@ const spaceMutiny = require('./space-mutiny.js');
 const goblinNames = require('./goblin-names.js');
 const dragonNames = require('./dragon-names.js');
 const zombieNames = require('./zombie-names.js');
+const outputProvider = require('./output-provider.js');
+const colors = require('colors');
 
 var helpers = {}
 module['exports'] = helpers;
@@ -12,6 +14,10 @@ var lastUsedId = 0;
 helpers.getId = function(){
     lastUsedId++;
     return lastUsedId;
+}
+
+helpers.roll = function(numberOfSides){
+    return Math.floor(Math.random() * numberOfSides) + 1;
 }
 
 helpers.getHero = function(initiative){
@@ -32,7 +38,9 @@ helpers.getHero = function(initiative){
         kills: 0,
         targetId: -1,
         history: [],
-        team: 0
+        team: 0,
+        preattackConditions: [],
+        postattackConditions: []
     }
     return peep;
 }
@@ -55,7 +63,9 @@ helpers.getGobo = function(initiative) {
         kills: 0,
         targetId: -1,
         history: [],
-        team: 0
+        team: 0,
+        preattackConditions: [],
+        postattackConditions: []
     }
     return gobo;
 }
@@ -78,7 +88,17 @@ helpers.getZombo = function(initiative) {
         kills: 0,
         targetId: -1,
         history: [],
-        team: 0
+        team: 0,
+        preattackConditions: [],
+        postattackConditions: [ function(attacker, target, attackIndex){
+            // console.log('Hitpoints ' + target.hitpoints);
+            var saveRoll = helpers.roll(20);
+            // console.log('Save roll ' + saveRoll);
+            if(target.hitpoints <= 0 && saveRoll > 10) {
+                target.hitpoints = 1;
+                outputProvider.miss(target.name + ' just wont die! They return to '+ ('(' + target.hitpoints + ')').green + ' HP.');
+            };
+        }]
     }
     return zombo;
 }
@@ -107,7 +127,9 @@ helpers.getGnoll = function(initiative) {
         kills: 0,
         targetId: -1,
         history: [],
-        team: 0
+        team: 0,
+        preattackConditions: [],
+        postattackConditions: []
     }
     return gnoll;
 }
@@ -130,7 +152,9 @@ helpers.getMinotaurSkeleton = function(initiative) {
         kills: 0,
         targetId: -1,
         history: [],
-        team: 1
+        team: 1,
+        preattackConditions: [],
+        postattackConditions: []
     }
     return skele;
 };
@@ -165,7 +189,9 @@ helpers.getDragon = function(initiative) {
         kills: 0,
         targetId: -1,
         history: [],
-        team: 1
+        team: 1,
+        preattackConditions: [],
+        postattackConditions: []
     }
     return dragon;
 }
