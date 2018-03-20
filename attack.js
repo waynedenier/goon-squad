@@ -140,12 +140,12 @@ var battle = function(){
     var totalTeams = 2;
     var combatants = [];
 
-    for (let i = 0; i < 4; i++) {
-        var hero = helpers.getHero(helpers.roll(20));
-        hero.team = 0;
-        hero.name = hero.name.cyan;
-        combatants.push(hero);  
-    }
+    // for (let i = 0; i < 4; i++) {
+    //     var hero = helpers.getHero(helpers.roll(20));
+    //     hero.team = 0;
+    //     hero.name = hero.name.cyan;
+    //     combatants.push(hero);  
+    // }
 
     for (let i = 0; i < 2; i++) {
         var hero = helpers.getZombo(helpers.roll(20));
@@ -156,12 +156,12 @@ var battle = function(){
 
     //combatants.push(minotaurSkeleton);
 
-    // for (let i = 0; i < 12; i++) {
-    //     var gobo = helpers.getGobo(helpers.roll(20));
-    //     gobo.team = 1;
-    //     gobo.name = gobo.name.green;
-    //     combatants.push(gobo);  
-    // }
+    for (let i = 0; i < 7; i++) {
+        var gobo = helpers.getGobo(helpers.roll(20));
+        gobo.team = 0;
+        gobo.name = gobo.name.green;
+        combatants.push(gobo);  
+    }
 
     var survivingTeams = 2;
     var roundCounter = 1;

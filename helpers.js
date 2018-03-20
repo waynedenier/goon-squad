@@ -96,6 +96,7 @@ helpers.getZombo = function(initiative) {
             // console.log('Save roll ' + saveRoll);
             if(target.hitpoints <= 0 && saveRoll > 10) {
                 target.hitpoints = 1;
+                target.history.push({ type: 'healed', source: target.name });
                 outputProvider.miss(target.name + ' just wont die! They return to '+ ('(' + target.hitpoints + ')').green + ' HP.');
             };
         }]
@@ -211,6 +212,9 @@ helpers.getStory = function(combatant) {
                 break;
             case 'killed':
                 summary = 'I dead! ' + item.source + ' beat me :('
+                break;
+            case 'healed':
+                summary = 'Healed.'
                 break;
             default:
                 summary = "*shrug*";
