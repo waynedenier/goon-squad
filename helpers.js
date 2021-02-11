@@ -138,7 +138,7 @@ helpers.getGnoll = function(initiative) {
 helpers.getMinotaurSkeleton = function(initiative) {
     var skele = {
         id: helpers.getId(),
-        name: '[Jack Er\'Face]'.yellow,
+        name: '[Skelotaur]'.yellow,
         attacks: [
             {
                 attackModifier: 6,

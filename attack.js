@@ -140,25 +140,23 @@ var battle = function(){
     var totalTeams = 2;
     var combatants = [];
 
-    // for (let i = 0; i < 4; i++) {
-    //     var hero = helpers.getHero(helpers.roll(20));
-    //     hero.team = 0;
-    //     hero.name = hero.name.cyan;
-    //     combatants.push(hero);  
-    // }
+    for (let i = 0; i < 4; i++) {
+        var hero = helpers.getGobo(helpers.roll(20));
+        hero.team = 0;
+        hero.name = hero.name.cyan;
+        combatants.push(hero);  
+    }
 
-    for (let i = 0; i < 2; i++) {
-        var hero = helpers.getZombo(helpers.roll(20));
-        hero.team = 1;
+    for (let i = 0; i < 1; i++) {
+        var hero = helpers.getMinotaurSkeleton(helpers.roll(20));
+        hero.team = 2;
         hero.name = hero.name.yellow;
         combatants.push(hero);  
     }
 
-    //combatants.push(minotaurSkeleton);
-
     for (let i = 0; i < 7; i++) {
         var gobo = helpers.getGobo(helpers.roll(20));
-        gobo.team = 0;
+        gobo.team = 1;
         gobo.name = gobo.name.green;
         combatants.push(gobo);  
     }
@@ -232,11 +230,11 @@ battle();
 var storyTest = function(){
     var hero = getHero();
 
-    hero.history.push({ type: 'gotHit', damage: 4, source: 'some asshole', target: 'me' });
-    hero.history.push({ type: 'hit', damage: 10, source: 'me', target: 'some asshole' });
-    hero.history.push({ type: 'kill', source: 'me', target: 'some asshole' });
+    hero.history.push({ type: 'gotHit', damage: 4, source: 'some jerk', target: 'me' });
+    hero.history.push({ type: 'hit', damage: 10, source: 'me', target: 'some unpolite person' });
+    hero.history.push({ type: 'kill', source: 'me', target: 'some citizen' });
     hero.history.push({ type: 'gotHit', damage: 10, source: 'another dude', target: 'me' });
-    hero.history.push({ type: 'killed', source: 'another dude', target: 'me' });
+    hero.history.push({ type: 'killed', source: 'yet another dude', target: 'me' });
 
     var story = getStory(hero);
 
